@@ -23,7 +23,7 @@
     "require": {
         "php": "^8.2",
         "ext-json": "*",
-        "laravel-lang/publisher": "^16.0"
+        "laravel-lang/publisher": "^15.0 || ^16.0"
     },
     "require-dev": {
         "laravel-lang/status-generator": "^2.12",

@@ -1,6 +1,6 @@
 # MoonShine Translations
 
-![moonshine translations](https://preview.dragon-code.pro/Laravel%20Lang/MoonShine%20Translations.svg?brand=laravel&pretty-title=0)
+![moonshine translations](https://preview.dragon-code.pro/laravel-lang/translations.svg?brand=moonshine-software)
 
 [![Stable Version][badge_stable]][link_packagist]
 [![Unstable Version][badge_unstable]][link_packagist]

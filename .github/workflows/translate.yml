@@ -2,7 +2,7 @@ name: Machine Translation
 
 on:
     schedule:
-        -   cron: 20 2 1 * *
+        -   cron: 20 4 1 * *
     workflow_dispatch:
 
 permissions: write-all

@@ -13,8 +13,12 @@ jobs:
             matrix:
                 php: [ "8.2", "8.3", "8.4" ]
                 laravel: [ "10.0", "11.0" ]
+                publisher: [ "15.0", "16.0" ]
+                exclude:
+                    - laravel: 11.0
+                      publisher: 15.0
         
-        name: PHP ${{ matrix.php }}, Laravel ${{ matrix.laravel }}
+        name: PHP ${{ matrix.php }}, L ${{ matrix.laravel }}, P ${{ matrix.publisher }}
         
         steps:
             -   name: Checkout code
@@ -30,7 +34,7 @@ jobs:
                     COMPOSER_TOKEN: ${{ secrets.COMPOSER_TOKEN }}
 
             -   name: Install dependencies
-                run: composer require laravel/framework:^${{ matrix.laravel }}
+                run: composer require laravel/framework:^${{ matrix.laravel }} laravel-lang/publisher:^${{ matrix.publisher }}
 
             -   name: Execute tests
                 run: sudo vendor/bin/phpunit --colors=always

@@ -1,0 +1,61 @@
+{
+    "name": "your/namespace",
+    "description": "Extended translations for Laravel Projects",
+    "license": "MIT",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "languages",
+        "lang",
+        "translations",
+        "messages"
+    ],
+    "authors": [
+        {
+            "name": "Andrey Helldar",
+            "email": "helldar@dragon-code.pro"
+        },
+        {
+            "name": "Laravel Lang Team",
+            "homepage": "https://laravel-lang.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "ext-json": "*",
+        "laravel-lang/publisher": "^16.0"
+    },
+    "require-dev": {
+        "laravel-lang/status-generator": "^2.3.1",
+        "phpunit/phpunit": "^10.0",
+        "symfony/var-dumper": "^6.3 || ^7.0"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "YourNamespace\\Translations\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "dragon-code/codestyler": true,
+            "ergebnis/composer-normalize": true,
+            "php-http/discovery": true
+        },
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "YourNamespace\\Translations\\ServiceProvider"
+            ]
+        }
+    }
+}

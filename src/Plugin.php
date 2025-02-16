@@ -2,29 +2,18 @@
 
 declare(strict_types=1);
 
-namespace YourNamespace\Translations;
+namespace LaravelLang\MoonShine;
 
+use LaravelLang\MoonShine\Plugins\V3;
 use LaravelLang\Publisher\Plugins\Provider;
-use YourNamespace\Translations\Plugins\Bar;
-use YourNamespace\Translations\Plugins\Foo;
-use YourNamespace\Translations\Plugins\Main;
 
 class Plugin extends Provider
 {
-    protected ?string $package_name = 'your/namespace';
+    protected ?string $package_name = 'moonshine/moonshine';
 
     protected string $base_path = __DIR__ . '/../';
 
     protected array $plugins = [
-        Foo::class,
-        Bar::class,
-        Main::class,
+        V3::class,
     ];
-
-    public function boot(): void
-    {
-        $path = function_exists('lang_path') ? lang_path('vendor/custom') : resource_path('lang/vendor/custom');
-
-        $this->loadJsonTranslationsFrom($path);
-    }
 }

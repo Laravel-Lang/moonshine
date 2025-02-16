@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace YourNamespace\Translations;
+namespace LaravelLang\MoonShine;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 use LaravelLang\Publisher\Plugins\Provider;

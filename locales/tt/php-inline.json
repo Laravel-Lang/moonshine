@@ -1,5 +1,6 @@
 {
     "accepted": "Бу өлкә кабул ителергә тиеш.",
+    "accepted_if": "This field must be accepted when :other is :value.",
     "active_url": "Бу кыр дөрес URL түгел.",
     "after": "Бу кыр :date дан соң дата булырга тиеш.",
     "after_or_equal": "Бу кыр :date дан соң яки ​​тигез булырга тиеш.",
@@ -19,6 +20,7 @@
     "date_equals": "Бу кыр :dateга тигез дата булырга тиеш.",
     "date_format": "Бу кыр :format форматына туры килми.",
     "declined": "Бу кыр кире кагылырга тиеш.",
+    "declined_if": "This field must be declined when :other is :value.",
     "different": "Бу кыр һәм :other төрле булырга тиеш.",
     "digits": "Бу кыр :digits сан булырга тиеш.",
     "digits_between": "Бу кыр :min дан :max санга кадәр булырга тиеш.",

@@ -61,6 +61,8 @@
     "max.file": "حجم فایل ورودی نباید بیشتر از :max کیلوبایت باشد.",
     "max.numeric": "مقدار ورودی نباید بزرگتر از :max باشد.",
     "max.string": "تعداد حروف رشته ورودی نباید بیشتر از :max باشد.",
+    "mimes": "This field must be a file of type: :values.",
+    "mimetypes": "This field must be a file of type: :values.",
     "min.array": "مقدار ورودی باید حداقل :min گزینه داشته باشد.",
     "min.file": "حجم فایل ورودی باید حداقل :min کیلوبایت باشد.",
     "min.numeric": "مقدار ورودی باید حداقل :min باشد.",

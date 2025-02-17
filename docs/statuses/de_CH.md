@@ -4,12 +4,12 @@ editLink: false
 
 # de_CH
 
-##### All missed: 74
+##### All missed: 78
 
 
-### php
+### php-inline
 
-##### Missing: 74
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,62 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+enum
+
+</td><td width="50%">
+
+The selected field is invalid.
+
+</td></tr>
+<tr><td width="50%">
+
+mac_address
+
+</td><td width="50%">
+
+This field must be a valid MAC address.
+
+</td></tr>
+<tr><td width="50%">
+
+required_array_keys
+
+</td><td width="50%">
+
+This field must contain entries for: :values.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 75
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+404
+
+</td><td width="50%">
+
+Houston we have a problem page not found
+
+</td></tr>
 <tr><td width="50%">
 
 add

@@ -71,7 +71,6 @@
     "not_in": "Valore non valido.",
     "not_regex": "Formato non valido.",
     "numeric": "Deve essere un numero.",
-    "password": "The provided password is incorrect.",
     "present": "Devi specificare un valore.",
     "prohibited": "Non consentito.",
     "prohibited_if": "Non consentito quando :other è :value.",

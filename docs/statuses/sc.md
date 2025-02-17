@@ -4,7 +4,7 @@ editLink: false
 
 # sc
 
-##### All missed: 135
+##### All missed: 136
 
 
 ### php-inline
@@ -218,7 +218,7 @@ This field is required when none of :values are present.
 
 ### php
 
-##### Missing: 114
+##### Missing: 115
 
 <table width="100%">
 <tr><th width="50%">
@@ -230,6 +230,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+404
+
+</td><td width="50%">
+
+Houston we have a problem page not found
+
+</td></tr>
 <tr><td width="50%">
 
 accepted_if

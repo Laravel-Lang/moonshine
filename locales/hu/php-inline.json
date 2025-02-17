@@ -71,7 +71,6 @@
     "not_in": "A kiválasztott érték érvénytelen.",
     "not_regex": "Ez a formátum érvénytelen.",
     "numeric": "Ez egy szám lehet.",
-    "password": "The provided password is incorrect.",
     "present": "Ennek a mezőnek jelen kell lennie.",
     "prohibited": "Ez a mező tilos.",
     "prohibited_if": "Ez a mező tilos, ha :other jelentése :value.",

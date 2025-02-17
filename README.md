@@ -62,7 +62,7 @@ This package is licensed under the [MIT License](https://laravel-lang.com/licens
 
 [badge_downloads]:  https://img.shields.io/packagist/dt/Laravel-Lang/moonshine.svg?style=flat-square
 
-[badge_license]:    https://img.shields.io/packagist/l/Laravel-Lang/moonshine.svg?style=flat-square
+[badge_license]:    https://img.shields.io/packagist/l/laravel-lang/moonshine.svg?style=flat-square
 
 [link_packagist]:   https://packagist.org/packages/Laravel-Lang/moonshine
 

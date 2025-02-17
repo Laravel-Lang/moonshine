@@ -26,4 +26,3 @@ jobs:
                     --only-copy
                 
                 php app/translate.php
-                php app/fix.php

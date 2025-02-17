@@ -16,9 +16,7 @@ jobs:
                 version: [ "3.x" ]
         with:
             project: MoonShine Admin Panel ${{ matrix.version }}
-            paths: |
-                source/moonshine/${{ matrix.version }}/pagination.php
-                source/moonshine/${{ matrix.version }}/ui.php
+            paths: source/moonshine/${{ matrix.version }}/*
             commands: |
                 vendor/bin/lang download \
                     --url=https://github.com/moonshine-software/moonshine/archive/refs/heads/${{ matrix.version }}.zip \
@@ -26,3 +24,6 @@ jobs:
                     --ver=${{ matrix.version }} \
                     --copy=src/Laravel/lang/en \
                     --only-copy
+                
+                php app/translate.php
+                php app/fix.php

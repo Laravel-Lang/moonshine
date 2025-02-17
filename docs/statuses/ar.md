@@ -4,12 +4,12 @@ editLink: false
 
 # ar
 
-##### All missed: 76
+##### All missed: 77
 
 
-### php
+### php-inline
 
-##### Missing: 76
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,7 +23,45 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-0
+mimes
+
+</td><td width="50%">
+
+This field must be a file of type: :values.
+
+</td></tr>
+<tr><td width="50%">
+
+mimetypes
+
+</td><td width="50%">
+
+This field must be a file of type: :values.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 75
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+404
 
 </td><td width="50%">
 
@@ -253,15 +291,6 @@ export
 </td><td width="50%">
 
 Export
-
-</td></tr>
-<tr><td width="50%">
-
-file
-
-</td><td width="50%">
-
-File
 
 </td></tr>
 <tr><td width="50%">

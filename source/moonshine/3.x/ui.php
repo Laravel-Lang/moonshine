@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 return [
-    '0'               => 'Houston we have a problem page not found',
+    '404'             => 'Houston we have a problem page not found',
     'add'             => 'Add',
     'all_sections'    => 'All sections',
     'back'            => 'Back',

@@ -15,8 +15,10 @@ class V3 extends Plugin
     public function files(): array
     {
         return [
+            'moonshine/3.x/auth.php'       => 'vendor/moonshine/{locale}/auth.php',
             'moonshine/3.x/pagination.php' => 'vendor/moonshine/{locale}/pagination.php',
             'moonshine/3.x/ui.php'         => 'vendor/moonshine/{locale}/ui.php',
+            'moonshine/3.x/validation.php' => 'vendor/moonshine/{locale}/validation.php',
         ];
     }
 }

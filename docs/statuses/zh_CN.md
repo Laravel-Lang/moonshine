@@ -4,12 +4,12 @@ editLink: false
 
 # zh_CN
 
-##### All missed: 76
+##### All missed: 75
 
 
 ### php
 
-##### Missing: 76
+##### Missing: 75
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,7 +23,7 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-0
+404
 
 </td><td width="50%">
 
@@ -253,15 +253,6 @@ export
 </td><td width="50%">
 
 Export
-
-</td></tr>
-<tr><td width="50%">
-
-file
-
-</td><td width="50%">
-
-File
 
 </td></tr>
 <tr><td width="50%">

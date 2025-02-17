@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "php": "^8.2",
+        "php": "^8.1",
         "ext-json": "*",
         "laravel-lang/publisher": "^15.0 || ^16.4.1"
     },

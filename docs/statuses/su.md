@@ -4,12 +4,12 @@ editLink: false
 
 # su
 
-##### All missed: 7
+##### All missed: 6
 
 
 ### php
 
-##### Missing: 7
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ edit
 </td><td width="50%">
 
 Edit
-
-</td></tr>
-<tr><td width="50%">
-
-file
-
-</td><td width="50%">
-
-File
 
 </td></tr>
 <tr><td width="50%">

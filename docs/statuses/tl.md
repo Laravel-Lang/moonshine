@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 11
+##### All missed: 10
 
 
 ### php
 
-##### Missing: 11
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ dashboard
 </td><td width="50%">
 
 Dashboard
-
-</td></tr>
-<tr><td width="50%">
-
-file
-
-</td><td width="50%">
-
-File
 
 </td></tr>
 <tr><td width="50%">

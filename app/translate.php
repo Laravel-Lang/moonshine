@@ -79,6 +79,8 @@ function storeTranslations(string $locale, array $values, bool $isInline): void
 
     $flags = JSON_PRETTY_PRINT ^ JSON_UNESCAPED_SLASHES ^ JSON_UNESCAPED_UNICODE;
 
+    unset($values['custom.attribute-name.rule-name']);
+
     $values = Arr::ksort($values);
 
     file_put_contents(__DIR__ . "/../locales/$locale/$filename", json_encode($values, $flags));

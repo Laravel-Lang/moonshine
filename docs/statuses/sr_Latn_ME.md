@@ -4,12 +4,12 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 76
+##### All missed: 84
 
 
-### php
+### php-inline
 
-##### Missing: 76
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,11 +23,58 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-0
+accepted_if
 
 </td><td width="50%">
 
-Houston we have a problem page not found
+This field must be accepted when :other is :value.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibits
+
+</td><td width="50%">
+
+This field prohibits :other from being present.
+
+</td></tr>
+<tr><td width="50%">
+
+required_array_keys
+
+</td><td width="50%">
+
+This field must contain entries for: :values.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 81
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+accepted_if
+
+</td><td width="50%">
+
+The :attribute must be accepted when :other is :value.
 
 </td></tr>
 <tr><td width="50%">
@@ -194,11 +241,38 @@ Create
 </td></tr>
 <tr><td width="50%">
 
+current_password
+
+</td><td width="50%">
+
+The password is incorrect.
+
+</td></tr>
+<tr><td width="50%">
+
 dashboard
 
 </td><td width="50%">
 
 Dashboard
+
+</td></tr>
+<tr><td width="50%">
+
+declined
+
+</td><td width="50%">
+
+The :attribute must be declined.
+
+</td></tr>
+<tr><td width="50%">
+
+declined_if
+
+</td><td width="50%">
+
+The :attribute must be declined when :other is :value.
 
 </td></tr>
 <tr><td width="50%">
@@ -253,15 +327,6 @@ export
 </td><td width="50%">
 
 Export
-
-</td></tr>
-<tr><td width="50%">
-
-file
-
-</td><td width="50%">
-
-File
 
 </td></tr>
 <tr><td width="50%">
@@ -374,6 +439,15 @@ Username
 </td></tr>
 <tr><td width="50%">
 
+mac_address
+
+</td><td width="50%">
+
+The :attribute must be a valid MAC address.
+
+</td></tr>
+<tr><td width="50%">
+
 more
 
 </td><td width="50%">
@@ -451,6 +525,24 @@ profile
 </td><td width="50%">
 
 Profile
+
+</td></tr>
+<tr><td width="50%">
+
+prohibits
+
+</td><td width="50%">
+
+The :attribute field prohibits :other from being present.
+
+</td></tr>
+<tr><td width="50%">
+
+required_array_keys
+
+</td><td width="50%">
+
+The :attribute field must contain entries for: :values.
 
 </td></tr>
 <tr><td width="50%">

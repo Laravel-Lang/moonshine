@@ -26,7 +26,7 @@
         "laravel-lang/publisher": "^15.0 || ^16.4.1"
     },
     "require-dev": {
-        "dragon-code/support": "^6.15",
+        "dragon-code/support": "^6.15.2",
         "illuminate/support": "^10.0 || ^11.0",
         "laravel-lang/lang": "^15.14",
         "laravel-lang/status-generator": "^2.12",

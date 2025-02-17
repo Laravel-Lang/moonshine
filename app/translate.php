@@ -9,9 +9,24 @@ use Illuminate\Support\Str;
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-function dotted(Arrayable $array): array
+function dotted(array|Arrayable $array, int|string $prepend = ''): array
 {
-    return collect($array->toArray())->dot()->all();
+    $results = [];
+
+    if ($array instanceof Arrayable) {
+        $array = $array->toArray();
+    }
+
+    foreach ($array as $key => $value) {
+        if (is_array($value) && ! empty($value)) {
+            $results = Arr::merge($results, dotted($value, $prepend . $key . '.'));
+        }
+        else {
+            $results[$prepend . $key] = $value;
+        }
+    }
+
+    return $results;
 }
 
 function fromLang(string $locale, bool $isInline, array $onlyKeys): array
@@ -49,7 +64,7 @@ function merge(array ...$arrays): array
 {
     $first = $arrays[0];
 
-    for ($i = 1; $i < count($arrays); $i++) {
+    for ($i = 1; $i < count($arrays); ++$i) {
         foreach ($arrays[$i] as $key => $value) {
             $first[$key] = $value;
         }
@@ -62,16 +77,17 @@ function storeTranslations(string $locale, array $values, bool $isInline): void
 {
     $filename = $isInline ? 'php-inline.json' : 'php.json';
 
-    $flags = JSON_THROW_ON_ERROR ^ JSON_PRETTY_PRINT ^ JSON_UNESCAPED_SLASHES ^ JSON_UNESCAPED_UNICODE;
+    $flags = JSON_PRETTY_PRINT ^ JSON_UNESCAPED_SLASHES ^ JSON_UNESCAPED_UNICODE;
 
-    ksort($values);
+    $values = Arr::ksort($values);
 
     file_put_contents(__DIR__ . "/../locales/$locale/$filename", json_encode($values, $flags));
 }
 
 foreach (Directory::names(__DIR__ . '/../locales') as $locale) {
-
     $moonshineAuth       = fromMoonShine('auth.php');
+    $moonshinePagination = fromMoonShine('pagination.php');
+    $moonshineUi         = fromMoonShine('ui.php');
     $moonshineValidation = fromMoonShine('validation.php');
 
     $translated       = translated($locale, false);
@@ -82,18 +98,26 @@ foreach (Directory::names(__DIR__ . '/../locales') as $locale) {
     $lang       = fromLang($locale, false, $keys);
     $langInline = fromLang($locale, true, $keys);
 
-    $merged       = merge($translated, $moonshineAuth, $moonshineValidation, $lang);
-    $mergedInline = merge($translatedInline, $moonshineAuth, $moonshineValidation, $langInline);
+    $merged = merge($moonshineAuth, $moonshinePagination, $moonshineUi, $moonshineValidation, $translated, $lang);
+    $mergedInline
+        = merge($moonshineAuth, $moonshinePagination, $moonshineUi, $moonshineValidation, $translatedInline, $langInline);
 
     $merged = array_filter(
         $merged,
         fn (mixed $value) => filled($value)
     );
 
-    $mergedInline = array_filter(
-        $mergedInline,
-        fn (mixed $value) => filled($value) && Str::doesntContain($value, ':attribute', true)
-    );
+    $mergedInline = array_filter($mergedInline, function (mixed $value, int|string $key) use ($merged) {
+        if (blank($value)) {
+            return false;
+        }
+
+        if (Str::contains($value, ':attribute', true)) {
+            return false;
+        }
+
+        return Str::contains($merged[$key], ':attribute', true);
+    }, ARRAY_FILTER_USE_BOTH);
 
     storeTranslations($locale, $merged, false);
     storeTranslations($locale, $mergedInline, true);

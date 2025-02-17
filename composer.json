@@ -23,7 +23,7 @@
     "require": {
         "php": "^8.2",
         "ext-json": "*",
-        "laravel-lang/publisher": "^15.0 || ^16.0"
+        "laravel-lang/publisher": "^15.0 || ^16.4.1"
     },
     "require-dev": {
         "dragon-code/support": "^6.15",

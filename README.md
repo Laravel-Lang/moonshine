@@ -7,6 +7,10 @@
 [![Total Downloads][badge_downloads]][link_packagist]
 [![License][badge_license]][link_license]
 
+> [!TIP]
+> [MoonShine](https://getmoonshine.app) is an opensource Laravel Admin Panel and more.
+> Simple for beginners and powerful for experts. Using Blade, Alpine.js and Tailwind CSS.
+
 ## Installation
 
 To get the latest version of `MoonShine Translations` library, simply require the project

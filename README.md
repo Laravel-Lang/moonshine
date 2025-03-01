@@ -3,7 +3,6 @@
 ![moonshine translations](https://preview.dragon-code.pro/laravel-lang/translations.svg?brand=moonshine-software)
 
 [![Stable Version][badge_stable]][link_packagist]
-[![Unstable Version][badge_unstable]][link_packagist]
 [![Total Downloads][badge_downloads]][link_packagist]
 [![License][badge_license]][link_license]
 
@@ -61,8 +60,6 @@ This package is licensed under the [MIT License](https://laravel-lang.com/licens
 
 
 [badge_stable]:     https://img.shields.io/github/v/release/Laravel-Lang/moonshine?label=stable&style=flat-square
-
-[badge_unstable]:   https://img.shields.io/badge/unstable-dev--main-orange?style=flat-square
 
 [badge_downloads]:  https://img.shields.io/packagist/dt/Laravel-Lang/moonshine.svg?style=flat-square
 

@@ -87,6 +87,7 @@
     "login.password": "Jelszó",
     "login.remember_me": "Emlékezz rám",
     "login.title": "Üdvözöljük a :moonshine_title rendszerben!",
+    "login.username": "Felhasználónév",
     "lt.array": "A :attribute mezőben kevesebb mint :value elemnek kell lennie.",
     "lt.file": "A :attribute fájl méretének kisebbnek kell lennie, mint :value KB.",
     "lt.numeric": "A :attribute értékének kisebbnek kell lennie, mint :value.",

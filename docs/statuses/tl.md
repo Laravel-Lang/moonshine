@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 10
+##### All missed: 9
 
 
 ### php
 
-##### Missing: 10
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -91,15 +91,6 @@ resource.password
 </td><td width="50%">
 
 Password
-
-</td></tr>
-<tr><td width="50%">
-
-resource.system
-
-</td><td width="50%">
-
-System
 
 </td></tr>
 <tr><td width="50%">

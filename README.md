@@ -42,10 +42,6 @@ Yes, that's all 😊
 Now the package is connected to your application and you
 can [manage localizations](https://laravel-lang.com/manage-locales.html).
 
-## Communication
-
-We also have official [chats](https://t.me/addlist/l0XGtvEIBiljMTMy) in Telegram.
-
 ## Contributing
 
 Please see [CONTRIBUTING](https://laravel-lang.com/contributions.html) for details.

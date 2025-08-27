@@ -49,6 +49,7 @@
         "allow-plugins": {
             "dragon-code/codestyler": true,
             "ergebnis/composer-normalize": true,
+            "laravel/pint": true,
             "php-http/discovery": true
         },
         "preferred-install": "dist",

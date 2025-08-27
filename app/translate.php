@@ -20,8 +20,7 @@ function dotted(array|Arrayable $array, int|string $prepend = ''): array
     foreach ($array as $key => $value) {
         if (is_array($value) && ! empty($value)) {
             $results = Arr::merge($results, dotted($value, $prepend . $key . '.'));
-        }
-        else {
+        } else {
             $results[$prepend . $key] = $value;
         }
     }
@@ -64,7 +63,7 @@ function merge(array ...$arrays): array
 {
     $first = $arrays[0];
 
-    for ($i = 1; $i < count($arrays); ++$i) {
+    for ($i = 1; $i < count($arrays); $i++) {
         foreach ($arrays[$i] as $key => $value) {
             $first[$key] = $value;
         }

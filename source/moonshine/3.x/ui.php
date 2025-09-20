@@ -3,12 +3,12 @@
 declare(strict_types=1);
 
 return [
-    '404'             => 'Houston we have a problem page not found',
-    'add'             => 'Add',
-    'all_sections'    => 'All sections',
-    'back'            => 'Back',
-    'cancel'          => 'Cancel',
-    'choices'         => [
+    '404'          => 'Houston we have a problem page not found',
+    'add'          => 'Add',
+    'all_sections' => 'All sections',
+    'back'         => 'Back',
+    'cancel'       => 'Cancel',
+    'choices'      => [
         'add_item'        => 'Press Enter to add \":value\"',
         'custom_add_item' => 'Only values matching specific conditions can be added',
         'item_select'     => 'Press to select',
@@ -46,25 +46,25 @@ return [
         'title'         => 'Welcome to :moonshine_title!',
         'username'      => 'Username',
     ],
-    'more'            => 'More',
-    'notfound'        => 'Records not found',
-    'notifications'   => [
+    'more'          => 'More',
+    'notfound'      => 'Records not found',
+    'notifications' => [
         'mark_as_read'     => 'Mark as read',
         'mark_as_read_all' => 'Mark all as read',
         'title'            => 'Notifications',
     ],
-    'profile'         => 'Profile',
-    'reset'           => 'Reset',
-    'resource'        => [
-        'admins_title'     => 'Admins',
-        'avatar'           => 'Avatar',
-        'change_password'  => 'Change password',
-        'created_at'       => 'Created At',
-        'email'            => 'E-mail',
-        'export'           => [
+    'profile'  => 'Profile',
+    'reset'    => 'Reset',
+    'resource' => [
+        'admins_title'    => 'Admins',
+        'avatar'          => 'Avatar',
+        'change_password' => 'Change password',
+        'created_at'      => 'Created At',
+        'email'           => 'E-mail',
+        'export'          => [
             'exported' => 'File exported',
         ],
-        'import'           => [
+        'import' => [
             'extension_not_supported' => 'File extension not supported',
             'file_required'           => 'File is required',
             'imported'                => 'Imported',
@@ -79,10 +79,10 @@ return [
         'role_title'       => 'Roles',
         'system'           => 'System',
     ],
-    'save'            => 'Save',
-    'saved'           => 'Saved',
-    'saved_error'     => 'Error',
-    'search'          => 'Search',
-    'show'            => 'Show',
-    'total'           => 'Total',
+    'save'        => 'Save',
+    'saved'       => 'Saved',
+    'saved_error' => 'Error',
+    'search'      => 'Search',
+    'show'        => 'Show',
+    'total'       => 'Total',
 ];

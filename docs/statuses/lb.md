@@ -4,12 +4,12 @@ editLink: false
 
 # lb
 
-##### All missed: 4
+##### All missed: 3
 
 
 ### php
 
-##### Missing: 4
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,15 +37,6 @@ export
 </td><td width="50%">
 
 Export
-
-</td></tr>
-<tr><td width="50%">
-
-resource.admins_title
-
-</td><td width="50%">
-
-Admins
 
 </td></tr>
 <tr><td width="50%">

@@ -113,7 +113,7 @@
     "not_in": ":Attribute är ogiltigt.",
     "not_regex": "Formatet för :attribute är ogiltigt.",
     "notfound": "Poster hittades inte",
-    "notifications.mark_as_read": "Mark As Read",
+    "notifications.mark_as_read": "Markera som läst",
     "notifications.mark_as_read_all": "Markera alla som läst",
     "notifications.title": "Meddelanden",
     "numeric": ":Attribute måste vara en siffra.",

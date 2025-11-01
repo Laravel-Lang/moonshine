@@ -4,12 +4,12 @@ editLink: false
 
 # mt
 
-##### All missed: 8
+##### All missed: 5
 
 
 ### php
 
-##### Missing: 8
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-dashboard
-
-</td><td width="50%">
-
-Dashboard
-
-</td></tr>
 <tr><td width="50%">
 
 login.email
@@ -46,15 +37,6 @@ login.password
 </td><td width="50%">
 
 Password
-
-</td></tr>
-<tr><td width="50%">
-
-login.username
-
-</td><td width="50%">
-
-Username
 
 </td></tr>
 <tr><td width="50%">
@@ -82,15 +64,6 @@ resource.password
 </td><td width="50%">
 
 Password
-
-</td></tr>
-<tr><td width="50%">
-
-to
-
-</td><td width="50%">
-
-to
 
 </td></tr>
 </table>

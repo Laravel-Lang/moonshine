@@ -137,7 +137,7 @@
     "required_without_all": "Fusha :attribute është e kërkuar kur nuk ekziston asnjë nga :values.",
     "reset": "Rivendos",
     "resource.admins_title": "Administratorë",
-    "resource.avatar": "Avatar",
+    "resource.avatar": "Avatari",
     "resource.change_password": "Ndryshoni fjalëkalimin",
     "resource.created_at": "I krijuar në",
     "resource.email": "E-mail",

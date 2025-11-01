@@ -136,7 +136,7 @@
     "required_without": "Den :attribute Feld ass erfuerderlech wann :values net präsent ass.",
     "required_without_all": "Den :attribute Feld ass erfuerderlech wann keng vun :values präsent sinn.",
     "reset": "Resréck",
-    "resource.admins_title": "Admins",
+    "resource.admins_title": "Administrateuren",
     "resource.avatar": "Avatar",
     "resource.change_password": "Passwuert änneren",
     "resource.created_at": "Erstallt bei",

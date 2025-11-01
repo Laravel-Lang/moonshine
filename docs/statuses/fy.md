@@ -4,12 +4,12 @@ editLink: false
 
 # fy
 
-##### All missed: 6
+##### All missed: 5
 
 
 ### php
 
-##### Missing: 6
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -46,15 +46,6 @@ filters
 </td><td width="50%">
 
 Filters
-
-</td></tr>
-<tr><td width="50%">
-
-loading
-
-</td><td width="50%">
-
-Loading ...
 
 </td></tr>
 <tr><td width="50%">

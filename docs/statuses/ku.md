@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 6
+##### All missed: 5
 
 
 ### php
 
-##### Missing: 6
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ dashboard
 </td><td width="50%">
 
 Dashboard
-
-</td></tr>
-<tr><td width="50%">
-
-loading
-
-</td><td width="50%">
-
-Loading ...
 
 </td></tr>
 <tr><td width="50%">

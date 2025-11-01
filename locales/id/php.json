@@ -51,7 +51,7 @@
     "dimensions": ":Attribute tidak memiliki dimensi gambar yang valid.",
     "distinct": ":Attribute memiliki nilai yang duplikat.",
     "download": "Unduh",
-    "edit": "Edit",
+    "edit": "Sunting",
     "email": ":Attribute harus berupa alamat surel yang valid.",
     "ends_with": ":Attribute harus diakhiri salah satu dari berikut: :values",
     "enum": ":Attribute yang dipilih tidak valid.",

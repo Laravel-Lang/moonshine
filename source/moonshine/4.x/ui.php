@@ -36,25 +36,25 @@ return [
         'title'         => 'Welcome to :moonshine_title!',
         'username'      => 'Username',
     ],
-    'more'            => 'More',
-    'notfound'        => 'Records not found',
-    'notifications'   => [
+    'more'          => 'More',
+    'notfound'      => 'Records not found',
+    'notifications' => [
         'mark_as_read'     => 'Mark as read',
         'mark_as_read_all' => 'Mark all as read',
         'title'            => 'Notifications',
     ],
-    'profile'         => 'Profile',
-    'reset'           => 'Reset',
-    'resource'        => [
-        'admins_title'     => 'Admins',
-        'avatar'           => 'Avatar',
-        'change_password'  => 'Change password',
-        'created_at'       => 'Created At',
-        'email'            => 'E-mail',
-        'export'           => [
+    'profile'  => 'Profile',
+    'reset'    => 'Reset',
+    'resource' => [
+        'admins_title'    => 'Admins',
+        'avatar'          => 'Avatar',
+        'change_password' => 'Change password',
+        'created_at'      => 'Created At',
+        'email'           => 'E-mail',
+        'export'          => [
             'exported' => 'File exported',
         ],
-        'import'           => [
+        'import' => [
             'extension_not_supported' => 'File extension not supported',
             'file_required'           => 'File is required',
             'imported'                => 'Imported',
@@ -69,11 +69,11 @@ return [
         'role_title'       => 'Roles',
         'system'           => 'System',
     ],
-    'save'            => 'Save',
-    'saved'           => 'Saved',
-    'saved_error'     => 'Error',
-    'search'          => 'Search',
-    'select'          => [
+    'save'        => 'Save',
+    'saved'       => 'Saved',
+    'saved_error' => 'Error',
+    'search'      => 'Search',
+    'select'      => [
         'add_item'        => 'Press Enter to add :value',
         'clear_all'       => 'Clear all',
         'custom_add_item' => 'Only values matching specific conditions can be added',
@@ -83,6 +83,6 @@ return [
         'remove_item'     => 'Remove item',
         'unique_item'     => 'Only unique values can be added',
     ],
-    'show'            => 'Show',
-    'total'           => 'Total',
+    'show'  => 'Show',
+    'total' => 'Total',
 ];

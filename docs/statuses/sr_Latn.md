@@ -4,59 +4,12 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 85
-
-
-### php-inline
-
-##### Missing: 3
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-This field must be accepted when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-This field prohibits :other from being present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_array_keys
-
-</td><td width="50%">
-
-This field must contain entries for: :values.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
+##### All missed: 83
 
 
 ### php
 
-##### Missing: 82
+##### Missing: 83
 
 <table width="100%">
 <tr><th width="50%">
@@ -75,15 +28,6 @@ Value
 </td><td width="50%">
 
 Houston we have a problem page not found
-
-</td></tr>
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-The :attribute must be accepted when :other is :value.
 
 </td></tr>
 <tr><td width="50%">
@@ -250,38 +194,11 @@ Create
 </td></tr>
 <tr><td width="50%">
 
-current_password
-
-</td><td width="50%">
-
-The password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
 dashboard
 
 </td><td width="50%">
 
 Dashboard
-
-</td></tr>
-<tr><td width="50%">
-
-declined
-
-</td><td width="50%">
-
-The :attribute must be declined.
-
-</td></tr>
-<tr><td width="50%">
-
-declined_if
-
-</td><td width="50%">
-
-The :attribute must be declined when :other is :value.
 
 </td></tr>
 <tr><td width="50%">
@@ -448,15 +365,6 @@ Username
 </td></tr>
 <tr><td width="50%">
 
-mac_address
-
-</td><td width="50%">
-
-The :attribute must be a valid MAC address.
-
-</td></tr>
-<tr><td width="50%">
-
 more
 
 </td><td width="50%">
@@ -534,24 +442,6 @@ profile
 </td><td width="50%">
 
 Profile
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-The :attribute field prohibits :other from being present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain entries for: :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -768,6 +658,78 @@ search
 </td><td width="50%">
 
 Search
+
+</td></tr>
+<tr><td width="50%">
+
+select.add_item
+
+</td><td width="50%">
+
+Press Enter to add :value
+
+</td></tr>
+<tr><td width="50%">
+
+select.clear_all
+
+</td><td width="50%">
+
+Clear all
+
+</td></tr>
+<tr><td width="50%">
+
+select.custom_add_item
+
+</td><td width="50%">
+
+Only values matching specific conditions can be added
+
+</td></tr>
+<tr><td width="50%">
+
+select.max_item
+
+</td><td width="50%">
+
+Only :count values can be added
+
+</td></tr>
+<tr><td width="50%">
+
+select.no_options
+
+</td><td width="50%">
+
+No options to choose from
+
+</td></tr>
+<tr><td width="50%">
+
+select.no_results
+
+</td><td width="50%">
+
+No results found
+
+</td></tr>
+<tr><td width="50%">
+
+select.remove_item
+
+</td><td width="50%">
+
+Remove item
+
+</td></tr>
+<tr><td width="50%">
+
+select.unique_item
+
+</td><td width="50%">
+
+Only unique values can be added
 
 </td></tr>
 <tr><td width="50%">

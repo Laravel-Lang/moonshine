@@ -93,7 +93,7 @@
     "starts_with": "Deve iniziare con uno dei seguenti: :values.",
     "string": "Deve essere una stringa.",
     "timezone": "Deve essere una zona valida.",
-    "unique": "E' già in uso.",
+    "unique": "È già in uso.",
     "uploaded": "Deve essere caricato.",
     "url": "Formato non valido.",
     "uuid": "Deve essere un UUID valido."

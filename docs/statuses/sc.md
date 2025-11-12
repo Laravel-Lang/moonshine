@@ -4,221 +4,12 @@ editLink: false
 
 # sc
 
-##### All missed: 136
-
-
-### php-inline
-
-##### Missing: 21
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-accepted
-
-</td><td width="50%">
-
-This field must be accepted.
-
-</td></tr>
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-This field must be accepted when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-alpha
-
-</td><td width="50%">
-
-This field must only contain letters.
-
-</td></tr>
-<tr><td width="50%">
-
-alpha_num
-
-</td><td width="50%">
-
-This field must only contain letters and numbers.
-
-</td></tr>
-<tr><td width="50%">
-
-array
-
-</td><td width="50%">
-
-This field must be an array.
-
-</td></tr>
-<tr><td width="50%">
-
-boolean
-
-</td><td width="50%">
-
-This field must be true or false.
-
-</td></tr>
-<tr><td width="50%">
-
-distinct
-
-</td><td width="50%">
-
-This field has a duplicate value.
-
-</td></tr>
-<tr><td width="50%">
-
-filled
-
-</td><td width="50%">
-
-This field must have a value.
-
-</td></tr>
-<tr><td width="50%">
-
-present
-
-</td><td width="50%">
-
-This field must be present.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited
-
-</td><td width="50%">
-
-This field is prohibited.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if
-
-</td><td width="50%">
-
-This field is prohibited when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_unless
-
-</td><td width="50%">
-
-This field is prohibited unless :other is in :values.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-This field prohibits :other from being present.
-
-</td></tr>
-<tr><td width="50%">
-
-required
-
-</td><td width="50%">
-
-This field is required.
-
-</td></tr>
-<tr><td width="50%">
-
-required_array_keys
-
-</td><td width="50%">
-
-This field must contain entries for: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-required_if
-
-</td><td width="50%">
-
-This field is required when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-required_unless
-
-</td><td width="50%">
-
-This field is required unless :other is in :values.
-
-</td></tr>
-<tr><td width="50%">
-
-required_with
-
-</td><td width="50%">
-
-This field is required when :values is present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_with_all
-
-</td><td width="50%">
-
-This field is required when :values are present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_without
-
-</td><td width="50%">
-
-This field is required when :values is not present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_without_all
-
-</td><td width="50%">
-
-This field is required when none of :values are present.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
+##### All missed: 83
 
 
 ### php
 
-##### Missing: 115
+##### Missing: 83
 
 <table width="100%">
 <tr><th width="50%">
@@ -241,29 +32,11 @@ Houston we have a problem page not found
 </td></tr>
 <tr><td width="50%">
 
-accepted_if
-
-</td><td width="50%">
-
-The :attribute must be accepted when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
 add
 
 </td><td width="50%">
 
 Add
-
-</td></tr>
-<tr><td width="50%">
-
-after_or_equal
-
-</td><td width="50%">
-
-The :attribute must be a date after or equal to :date.
 
 </td></tr>
 <tr><td width="50%">
@@ -282,15 +55,6 @@ back
 </td><td width="50%">
 
 Back
-
-</td></tr>
-<tr><td width="50%">
-
-before_or_equal
-
-</td><td width="50%">
-
-The :attribute must be a date before or equal to :date.
 
 </td></tr>
 <tr><td width="50%">
@@ -430,47 +194,11 @@ Create
 </td></tr>
 <tr><td width="50%">
 
-current_password
-
-</td><td width="50%">
-
-The password is incorrect.
-
-</td></tr>
-<tr><td width="50%">
-
 dashboard
 
 </td><td width="50%">
 
 Dashboard
-
-</td></tr>
-<tr><td width="50%">
-
-date_equals
-
-</td><td width="50%">
-
-The :attribute must be a date equal to :date.
-
-</td></tr>
-<tr><td width="50%">
-
-declined
-
-</td><td width="50%">
-
-The :attribute must be declined.
-
-</td></tr>
-<tr><td width="50%">
-
-declined_if
-
-</td><td width="50%">
-
-The :attribute must be declined when :other is :value.
 
 </td></tr>
 <tr><td width="50%">
@@ -502,24 +230,6 @@ Deleting
 </td></tr>
 <tr><td width="50%">
 
-dimensions
-
-</td><td width="50%">
-
-The :attribute has invalid image dimensions.
-
-</td></tr>
-<tr><td width="50%">
-
-distinct
-
-</td><td width="50%">
-
-The :attribute field has a duplicate value.
-
-</td></tr>
-<tr><td width="50%">
-
 download
 
 </td><td width="50%">
@@ -538,38 +248,11 @@ Edit
 </td></tr>
 <tr><td width="50%">
 
-ends_with
-
-</td><td width="50%">
-
-The :attribute must end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
 export
 
 </td><td width="50%">
 
 Export
-
-</td></tr>
-<tr><td width="50%">
-
-failed
-
-</td><td width="50%">
-
-These credentials do not match our records.
-
-</td></tr>
-<tr><td width="50%">
-
-file
-
-</td><td width="50%">
-
-The :attribute must be a file.
 
 </td></tr>
 <tr><td width="50%">
@@ -583,83 +266,11 @@ Filters
 </td></tr>
 <tr><td width="50%">
 
-gt.array
-
-</td><td width="50%">
-
-The :attribute must have more than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.file
-
-</td><td width="50%">
-
-The :attribute must be greater than :value kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.numeric
-
-</td><td width="50%">
-
-The :attribute must be greater than :value.
-
-</td></tr>
-<tr><td width="50%">
-
-gt.string
-
-</td><td width="50%">
-
-The :attribute must be greater than :value characters.
-
-</td></tr>
-<tr><td width="50%">
-
-gte.array
-
-</td><td width="50%">
-
-The :attribute must have :value items or more.
-
-</td></tr>
-<tr><td width="50%">
-
 import
 
 </td><td width="50%">
 
 Import
-
-</td></tr>
-<tr><td width="50%">
-
-ipv4
-
-</td><td width="50%">
-
-The :attribute must be a valid IPv4 address.
-
-</td></tr>
-<tr><td width="50%">
-
-ipv6
-
-</td><td width="50%">
-
-The :attribute must be a valid IPv6 address.
-
-</td></tr>
-<tr><td width="50%">
-
-json
-
-</td><td width="50%">
-
-The :attribute must be a valid JSON string.
 
 </td></tr>
 <tr><td width="50%">
@@ -754,60 +365,6 @@ Username
 </td></tr>
 <tr><td width="50%">
 
-lt.array
-
-</td><td width="50%">
-
-The :attribute must have less than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.file
-
-</td><td width="50%">
-
-The :attribute must be less than :value kilobytes.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.numeric
-
-</td><td width="50%">
-
-The :attribute must be less than :value.
-
-</td></tr>
-<tr><td width="50%">
-
-lt.string
-
-</td><td width="50%">
-
-The :attribute must be less than :value characters.
-
-</td></tr>
-<tr><td width="50%">
-
-lte.array
-
-</td><td width="50%">
-
-The :attribute must not have more than :value items.
-
-</td></tr>
-<tr><td width="50%">
-
-mac_address
-
-</td><td width="50%">
-
-The :attribute must be a valid MAC address.
-
-</td></tr>
-<tr><td width="50%">
-
 more
 
 </td><td width="50%">
@@ -817,29 +374,11 @@ More
 </td></tr>
 <tr><td width="50%">
 
-multiple_of
-
-</td><td width="50%">
-
-The :attribute must be a multiple of :value.
-
-</td></tr>
-<tr><td width="50%">
-
 next
 
 </td><td width="50%">
 
 Next &raquo;
-
-</td></tr>
-<tr><td width="50%">
-
-not_regex
-
-</td><td width="50%">
-
-The :attribute format is invalid.
 
 </td></tr>
 <tr><td width="50%">
@@ -889,15 +428,6 @@ of
 </td></tr>
 <tr><td width="50%">
 
-present
-
-</td><td width="50%">
-
-The :attribute field must be present.
-
-</td></tr>
-<tr><td width="50%">
-
 previous
 
 </td><td width="50%">
@@ -912,60 +442,6 @@ profile
 </td><td width="50%">
 
 Profile
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited
-
-</td><td width="50%">
-
-The :attribute field is prohibited.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_if
-
-</td><td width="50%">
-
-The :attribute field is prohibited when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibited_unless
-
-</td><td width="50%">
-
-The :attribute field is prohibited unless :other is in :values.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-The :attribute field prohibits :other from being present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain entries for: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-required_unless
-
-</td><td width="50%">
-
-The :attribute field is required unless :other is in :values.
 
 </td></tr>
 <tr><td width="50%">
@@ -1186,6 +662,78 @@ Search
 </td></tr>
 <tr><td width="50%">
 
+select.add_item
+
+</td><td width="50%">
+
+Press Enter to add :value
+
+</td></tr>
+<tr><td width="50%">
+
+select.clear_all
+
+</td><td width="50%">
+
+Clear all
+
+</td></tr>
+<tr><td width="50%">
+
+select.custom_add_item
+
+</td><td width="50%">
+
+Only values matching specific conditions can be added
+
+</td></tr>
+<tr><td width="50%">
+
+select.max_item
+
+</td><td width="50%">
+
+Only :count values can be added
+
+</td></tr>
+<tr><td width="50%">
+
+select.no_options
+
+</td><td width="50%">
+
+No options to choose from
+
+</td></tr>
+<tr><td width="50%">
+
+select.no_results
+
+</td><td width="50%">
+
+No results found
+
+</td></tr>
+<tr><td width="50%">
+
+select.remove_item
+
+</td><td width="50%">
+
+Remove item
+
+</td></tr>
+<tr><td width="50%">
+
+select.unique_item
+
+</td><td width="50%">
+
+Only unique values can be added
+
+</td></tr>
+<tr><td width="50%">
+
 show
 
 </td><td width="50%">
@@ -1204,33 +752,6 @@ Showing
 </td></tr>
 <tr><td width="50%">
 
-starts_with
-
-</td><td width="50%">
-
-The :attribute must start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-string
-
-</td><td width="50%">
-
-The :attribute must be a string.
-
-</td></tr>
-<tr><td width="50%">
-
-throttle
-
-</td><td width="50%">
-
-Too many login attempts. Please try again in :seconds seconds.
-
-</td></tr>
-<tr><td width="50%">
-
 to
 
 </td><td width="50%">
@@ -1245,24 +766,6 @@ total
 </td><td width="50%">
 
 Total
-
-</td></tr>
-<tr><td width="50%">
-
-uploaded
-
-</td><td width="50%">
-
-The :attribute failed to upload.
-
-</td></tr>
-<tr><td width="50%">
-
-uuid
-
-</td><td width="50%">
-
-The :attribute must be a valid UUID.
 
 </td></tr>
 </table>

@@ -4,50 +4,12 @@ editLink: false
 
 # sl
 
-##### All missed: 12
-
-
-### php-inline
-
-##### Missing: 2
-
-<table width="100%">
-<tr><th width="50%">
-
-Key
-
-</th><th width="50%">
-
-Value
-
-</th></tr>
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-This field must be accepted when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-This field prohibits :other from being present.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
+##### All missed: 1
 
 
 ### php
 
-##### Missing: 10
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-home
-
-</td><td width="50%">
-
-Home
-
-</td></tr>
 <tr><td width="50%">
 
 resource.avatar
@@ -75,78 +28,6 @@ resource.avatar
 </td><td width="50%">
 
 Avatar
-
-</td></tr>
-<tr><td width="50%">
-
-select.add_item
-
-</td><td width="50%">
-
-Press Enter to add :value
-
-</td></tr>
-<tr><td width="50%">
-
-select.clear_all
-
-</td><td width="50%">
-
-Clear all
-
-</td></tr>
-<tr><td width="50%">
-
-select.custom_add_item
-
-</td><td width="50%">
-
-Only values matching specific conditions can be added
-
-</td></tr>
-<tr><td width="50%">
-
-select.max_item
-
-</td><td width="50%">
-
-Only :count values can be added
-
-</td></tr>
-<tr><td width="50%">
-
-select.no_options
-
-</td><td width="50%">
-
-No options to choose from
-
-</td></tr>
-<tr><td width="50%">
-
-select.no_results
-
-</td><td width="50%">
-
-No results found
-
-</td></tr>
-<tr><td width="50%">
-
-select.remove_item
-
-</td><td width="50%">
-
-Remove item
-
-</td></tr>
-<tr><td width="50%">
-
-select.unique_item
-
-</td><td width="50%">
-
-Only unique values can be added
 
 </td></tr>
 </table>

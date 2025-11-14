@@ -23,6 +23,7 @@ return [
     'export'          => 'Export',
     'file'            => 'File',
     'filters'         => 'Filters',
+    'home'            => 'Home',
     'import'          => 'Import',
     'loading'         => 'Loading ...',
     'login'           => [

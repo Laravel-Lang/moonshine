@@ -69,6 +69,7 @@
     "gte.file": ":Attribute inapaswa kuwa kubwa au sawa na kilobaiti :value.",
     "gte.numeric": ":Attribute inapaswa kuwa kubwa kuliko au sawa na :value.",
     "gte.string": ":Attribute inapaswa kuwa kubwa kuliko au sawa na herufi :value.",
+    "home": "Home",
     "image": "Kipengele lazima kiwe picha.",
     "import": "Import",
     "in": "Kipengele kilichochaguliwa si halali.",

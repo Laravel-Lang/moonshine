@@ -69,6 +69,7 @@
     "gte.file": "Déi :attribute musse méi wéi oder gläich wéi :value kilobytes sinn.",
     "gte.numeric": "Déi :attribute musse méi grouss wéi oder gläich wéi :value sinn.",
     "gte.string": "Déi :attribute musse méi wéi oder gläich wéi :value Zeechen sinn.",
+    "home": "Home",
     "image": "Déi :attribute muss e Bild sinn.",
     "import": "Importéieren",
     "in": "Déi gewielte :attribute ass ongëlteg.",

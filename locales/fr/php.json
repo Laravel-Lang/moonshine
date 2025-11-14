@@ -69,6 +69,7 @@
     "gte.file": "La taille du fichier de :attribute doit être supérieure ou égale à :value kilo-octets.",
     "gte.numeric": "La valeur de :attribute doit être supérieure ou égale à :value.",
     "gte.string": "Le texte :attribute doit contenir au moins :value caractères.",
+    "home": "Home",
     "image": "Le champ :attribute doit être une image.",
     "import": "Import",
     "in": "Le champ :attribute est invalide.",

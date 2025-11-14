@@ -69,6 +69,7 @@
     "gte.file": ":Attribute অবশ্যই :value কিলোবাইটের থেকে বড় বা সমান হতে হবে।",
     "gte.numeric": ":Attribute অবশ্যই :value এর চেয়ে বড় বা সমান হতে হবে।",
     "gte.string": ":Attribute অবশ্যই :value অক্ষরের চেয়ে বড় বা সমান হতে হবে।",
+    "home": "Home",
     "image": ":Attribute একটি ইমেজ হতে হবে।",
     "import": "Import",
     "in": "নির্বাচিত :attribute টি অবৈধ।",

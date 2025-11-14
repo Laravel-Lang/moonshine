@@ -69,6 +69,7 @@
     "gte.file": "Die :attribute moet groter wees as of gelyk wees :value kilobytes.",
     "gte.numeric": "Die :attribute moet groter wees of gelyk wees aan :value.",
     "gte.string": "Die :attribute moet groter wees as of gelyk wees :value characters.",
+    "home": "Home",
     "image": "Die :attribute moet n foto wees.",
     "import": "Invoerproduk",
     "in": "Die geselketeerde :attribute is ongeldig.",

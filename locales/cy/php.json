@@ -69,6 +69,7 @@
     "gte.file": "Rhaid i'r :attribute fod yn fwy na neu'n hafal i :value cilobeit.",
     "gte.numeric": "Rhaid i’r :attribute fod yn fwy na neu’n hafal i :value.",
     "gte.string": "Rhaid i'r :attribute fod yn fwy na neu'n hafal i :value nod.",
+    "home": "Home",
     "image": "Rhaid i :attribute fod yn lun.",
     "import": "Mewnforio",
     "in": "Nid yw :attribute yn ddilys.",

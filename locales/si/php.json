@@ -69,6 +69,7 @@
     "gte.file": "මෙම :attribute එක කිලෝබයිට් :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.",
     "gte.numeric": "මෙම :attribute එක :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.",
     "gte.string": "මෙම :attribute එක අකුරු :value ට වඩා වැඩි හෝ සමාන විය යුතුයි.",
+    "home": "Home",
     "image": "මෙම :attribute රූපයක් විය යුතුය.",
     "import": "ආනයනය",
     "in": "මෙම තෝරා ඇති :attribute වලංගු නැත.",

@@ -69,6 +69,7 @@
     "gte.file": "ข้อมูล :attribute ต้องมีขนาดมากกว่าหรือเท่ากับ :value กิโลไบต์",
     "gte.numeric": "ข้อมูล :attribute ต้องมีค่ามากกว่าหรือเท่ากับ :value",
     "gte.string": "ข้อมูล :attribute ต้องยาวมากกว่าหรือเท่ากับ :value ตัวอักษร",
+    "home": "Home",
     "image": "ข้อมูล :attribute ต้องเป็นรูปภาพ",
     "import": "Import",
     "in": "ข้อมูลที่ถูกเลือกใน :attribute ไม่ถูกต้อง",

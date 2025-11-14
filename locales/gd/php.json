@@ -69,6 +69,7 @@
     "gte.file": "Feumaidh an :attribute a bhith nas motha na no co-ionann ri :value kilobytes.",
     "gte.numeric": "Feumaidh an :attribute a bhith nas motha na no co-ionann ri :value.",
     "gte.string": "Feumaidh na :attribute a bhith nas motha na no co-ionann ri :value caractar.",
+    "home": "Home",
     "image": "Feumaidh an :attribute a bhith na ìomhaigh.",
     "import": "Import",
     "in": "Tha an :attribute a chaidh a thaghadh neo-dhligheach.",

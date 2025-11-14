@@ -69,6 +69,7 @@
     "gte.file": ":attribute :value किलोबाइट थमां मता जां बराबर होना चाहिदा ऐ।",
     "gte.numeric": ":attribute :value कोला बड्डा जां बराबर होना चाहिदा।",
     "gte.string": ":attribute :value अक्षरें शा मता जां बराबर होना चाहिदा ऐ।",
+    "home": "Home",
     "image": ":attribute इक छवि होनी चाहिदी।",
     "import": "दरामद",
     "in": "चयनित :attribute अमान्य ऐ।",

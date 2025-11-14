@@ -69,6 +69,7 @@
     "gte.file": "Velikost souboru :attribute musí být větší nebo rovno :value kB.",
     "gte.numeric": ":Attribute musí být větší nebo rovno :value.",
     "gte.string": "Počet znaků :attribute musí být větší nebo rovno :value.",
+    "home": "Home",
     "image": ":Attribute musí být obrázek.",
     "import": "Importovat",
     "in": "Zvolená hodnota pro :attribute je neplatná.",

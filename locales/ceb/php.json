@@ -69,6 +69,7 @@
     "gte.file": "Ang :attribute kinahanglang mas dako o katumbas sa :value kilobytes.",
     "gte.numeric": "Ang :attribute kinahanglang mas dako o katumbas sa :value.",
     "gte.string": "Ang :attribute kinahanglang mas dako o katumbas sa :value ka karakter.",
+    "home": "Home",
     "image": "Ang :attribute kinahanglan usa ka imahe.",
     "import": "Pagpasulodsa mga produkto gikan sa ubang nasod",
     "in": "Ang gipili nga :attribute dili balido.",

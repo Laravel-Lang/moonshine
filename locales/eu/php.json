@@ -69,6 +69,7 @@
     "gte.file": ":Attribute-(e)k :value kilobyte edo gehiago izan behar ditu.",
     "gte.numeric": ":Attribute-(e)k :value baino handiagoa edo berdina izan behar du.",
     "gte.string": ":Attribute-(e)k :value karaktere edo gehiago izan behar ditu.",
+    "home": "Home",
     "image": ":Attribute irudi bat izan behar da.",
     "import": "Inportatu",
     "in": ":Attribute baliogabea da.",

@@ -69,6 +69,7 @@
     "gte.file": ":Attribute depet èssere manna uguale o prus de :value kilobytes.",
     "gte.numeric": ":Attribute depet èssere uguale o prus mannu de :value.",
     "gte.string": ":Attribute depet èssere uguale o prus longu de :value caràteres.",
+    "home": "Home",
     "image": ":Attribute depet èssere un'immàgine.",
     "import": "Import",
     "in": ":Attribute seberadu no est bàlidu.",

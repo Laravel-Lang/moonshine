@@ -69,6 +69,7 @@
     "gte.file": ":attribute ଟି :value କିଲୋବାଇଟ ଠାରୁ ବଡ କିମ୍ବା ସମାନ ହେବା ଜରୁରୀ |",
     "gte.numeric": ":attribute ଟି :value ରୁ ଅଧିକ କିମ୍ବା ସମାନ ହେବା ଜରୁରୀ |",
     "gte.string": ":attribute ଟି :value ଅକ୍ଷରରୁ ଅଧିକ କିମ୍ବା ସମାନ ହେବା ଜରୁରୀ |",
+    "home": "Home",
     "image": ":attribute ଟି ଏକ ପ୍ରତିଛବି ହେବା ଜରୁରୀ |",
     "import": "ଆମଦାନି କରନ୍ତୁ |",
     "in": "ମନୋନୀତ :attribute ଅବ alid ଧ ଅଟେ |",

@@ -69,6 +69,7 @@
     "gte.file": ":Attribute થી વિશેષ અથવા સમાંતર હોવું જોઈએ :value કિલો બાઇટ્સ.",
     "gte.numeric": ":Attribute થી વિશેષ અથવા સમાંતર હોવું જોઈએ :value.",
     "gte.string": ":Attribute થી વિશેષ અથવા સમાંતર હોવું જોઈએ :value મૂલ્ય અક્ષરો.",
+    "home": "Home",
     "image": ":Attribute છબી હોવી જોઈએ.",
     "import": "આયાત",
     "in": ":Attribute અમાન્ય છે.",

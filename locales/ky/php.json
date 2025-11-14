@@ -69,6 +69,7 @@
     "gte.file": ":attribute :value килобайттан чоң же барабар болушу керек.",
     "gte.numeric": ":attribute :valueдан чоң же барабар болушу керек.",
     "gte.string": ":attribute :value белгиден чоң же барабар болушу керек.",
+    "home": "Home",
     "image": ":attribute сүрөт болушу керек.",
     "import": "Импорт",
     "in": "Тандалган :attribute жараксыз.",

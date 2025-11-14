@@ -69,6 +69,7 @@
     "gte.file": ":Attribute файл өлшемі :value килобайттан үлкен немесе тең болуы керек.",
     "gte.numeric": ":Attribute мәні :value үлкен немесе тең болуы керек.",
     "gte.string": ":Attribute мәні :value таңбалардан үлкен немесе тең болуы керек.",
+    "home": "Home",
     "image": ":Attribute кескін болуы керек.",
     "import": "Импорт",
     "in": "таңдалған :attribute жарамсыз.",

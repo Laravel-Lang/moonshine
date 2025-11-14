@@ -69,6 +69,7 @@
     "gte.file": ":Attribute, :value किलोबाईट पेक्षा मोठे किंवा समान असणे आवश्यक आहे.",
     "gte.numeric": ":Attribute, :value पेक्षा मोठे किंवा समान असणे आवश्यक आहे.",
     "gte.string": ":Attribute, :value शब्दांपेक्षा मोठे किंवा समान असणे आवश्यक आहे.",
+    "home": "Home",
     "image": ":Attribute एक प्रतिमा असावी.",
     "import": "आयात",
     "in": ":Attribute अमान्य आहे.",

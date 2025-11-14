@@ -69,6 +69,7 @@
     "gte.file": "Pole :attribute musi być większe lub równe :value kilobajtów.",
     "gte.numeric": "Pole :attribute musi być większe lub równe :value.",
     "gte.string": "Pole :attribute musi być dłuższe lub równe :value znaków.",
+    "home": "Home",
     "image": "Pole :attribute musi być obrazkiem.",
     "import": "Importuj",
     "in": "Zaznaczony element :attribute jest nieprawidłowy.",

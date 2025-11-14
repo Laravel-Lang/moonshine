@@ -69,6 +69,7 @@
     "gte.file": ":Attribute mutlaka :value kilobayt'tan büyük veya eşit olmalıdır.",
     "gte.numeric": ":Attribute mutlaka :value sayısından büyük veya eşit olmalıdır.",
     "gte.string": ":Attribute mutlaka :value karakterden uzun veya eşit olmalıdır.",
+    "home": "Home",
     "image": ":Attribute mutlaka bir resim olmalıdır.",
     "import": "Import",
     "in": "Seçili :attribute geçersiz.",

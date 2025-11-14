@@ -69,6 +69,7 @@
     "gte.file": "እቲ :attribute ካብ :value ኪሎባይት ክዓቢ ወይ ማዕረ ክኸውን ኣለዎ።",
     "gte.numeric": "እቲ :attribute ካብ :value ክዓቢ ወይ ማዕረ ክኸውን ኣለዎ።",
     "gte.string": "እቶም :attribute ካብ :value ፊደላት ክዓብዩ ወይ ማዕረ ክኾኑ ኣለዎም።",
+    "home": "Home",
     "image": "እቶም :attribute ምስሊ ክኾኑ ኣለዎም።",
     "import": "ናብ ዓዲ ውሽጢ ኣቕሓ ምእታው",
     "in": "እቲ ዝተመርጸ :attribute ቅኑዕ ኣይኮነን።",

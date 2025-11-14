@@ -69,6 +69,7 @@
     "gte.file": "Me nui ake te :attribute ki te :value kiropaita ranei.",
     "gte.numeric": "Me nui ake te :attribute ki te :value ranei.",
     "gte.string": "Ko te :attribute me nui ake i te rite ranei ki nga tohu :value.",
+    "home": "Home",
     "image": "Me ahua te :attribute.",
     "import": "Whakauru",
     "in": "Ko te :attribute kua tohua he muhu.",

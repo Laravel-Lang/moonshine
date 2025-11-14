@@ -69,6 +69,7 @@
     "gte.file": ":attributeは、:value KB以上である必要があります。",
     "gte.numeric": ":attributeは、:value以上である必要があります。",
     "gte.string": ":attributeは、:value文字以上である必要があります。",
+    "home": "Home",
     "image": ":attributeには、画像を指定してください。",
     "import": "インポート",
     "in": "選択された:attributeは、有効ではありません。",

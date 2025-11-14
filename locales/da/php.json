@@ -69,6 +69,7 @@
     "gte.file": ":Attribute skal være større end eller lig med :value kilobytes.",
     "gte.numeric": ":Attribute skal være større end eller lig med :value.",
     "gte.string": ":Attribute skal være mere end eller lig med :value tegn.",
+    "home": "Home",
     "image": ":Attribute skal være et billede.",
     "import": "Import",
     "in": "Valgte :attribute er ugyldig.",

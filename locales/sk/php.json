@@ -69,6 +69,7 @@
     "gte.file": ":Attribute musí mať rovnaký alebo väčší počet kB ako :value.",
     "gte.numeric": "Hodnota :attribute musí byť väčšia alebo rovná ako :value.",
     "gte.string": ":Attribute musí mať rovnaký alebo väčší počet znakov ako :value.",
+    "home": "Home",
     "image": ":Attribute musí byť obrázok.",
     "import": "Dovoz",
     "in": "Hodnota :attribute nieje v zozname povolených hodnôt.",

@@ -69,6 +69,7 @@
     "gte.file": ":attribute कें :value किलोबाइट सं बेसि या बराबर होबाक चाही.",
     "gte.numeric": ":attribute :value स बेसी या बराबर हेबाक चाही।",
     "gte.string": ":attribute :value वर्णसँ बेसी वा बराबर हेबाक चाही।",
+    "home": "Home",
     "image": ":attribute एकटा छवि हेबाक चाही।",
     "import": "आयात",
     "in": "चयनित :attribute अमान्य अछि।",

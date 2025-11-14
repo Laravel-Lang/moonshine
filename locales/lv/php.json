@@ -69,6 +69,7 @@
     "gte.file": ":Attribute jābūt lielākam vai vienādam ar :value kilobaitiem.",
     "gte.numeric": ":Attribute jābūt lielākam vai vienādam ar :value.",
     "gte.string": ":Attribute garumam jābūt lielākam vai vienādam ar :value rakstzīmēm.",
+    "home": "Home",
     "image": ":Attribute jābūt attēlam.",
     "import": "Importēt",
     "in": "Izvēlētais :attribute ir nederīgs.",

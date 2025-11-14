@@ -69,6 +69,7 @@
     "gte.file": ":attribute igomba kuba irenze cyangwa ingana na kilobytes :value.",
     "gte.numeric": ":attribute igomba kuba irenze cyangwa ingana na :value.",
     "gte.string": ":attribute igomba kuba irenze cyangwa ingana ninyuguti :value.",
+    "home": "Home",
     "image": ":attribute igomba kuba ishusho.",
     "import": "Gutumiza",
     "in": "Ibyatoranijwe :attribute ntabwo byemewe.",

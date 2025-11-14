@@ -69,6 +69,7 @@
     "gte.file": ":attribute ka waa inuu ka weyn yahay ama la mid yahay :value kilobytes.",
     "gte.numeric": ":attributeka waa in ay ka badan yihiin ama la siman yihiin :value.",
     "gte.string": ":attributeku waa inuu ka weyn yahay ama la mid yahay :value xaraf.",
+    "home": "Home",
     "image": ":attributeku waa inuu noqdaa sawir.",
     "import": "Soo dejin",
     "in": ":attributeka la doortay waa mid aan sax ahayn.",

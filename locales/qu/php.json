@@ -69,6 +69,7 @@
     "gte.file": ":attribute :value kilobytemanta aswan hatun utaq kaqlla kanan tiyan.",
     "gte.numeric": ":attribute :valuemanta aswan hatun utaq kaqlla kanan.",
     "gte.string": "Chay :attributeqa :value qillqamanta aswan hatun utaq kaqlla kanan.",
+    "home": "Home",
     "image": "Chay :attributeqa huk rikch’aymi kanan.",
     "import": "Yaykuchimuy",
     "in": "Akllasqa :attribute mana allinchu.",

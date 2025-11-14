@@ -69,6 +69,7 @@
     "gte.file": ":Attribute ត្រូវតែធំជាងឬស្មើ :value គីឡូបៃ។",
     "gte.numeric": ":Attribute ត្រូវតែធំជាងឬស្មើ :value។",
     "gte.string": ":Attribute ត្រូវតែធំជាងឬស្មើ :value តួអក្សរ។",
+    "home": "Home",
     "image": ":Attribute ត្រូវតៃជារូបភាព។",
     "import": "ការនាមចុល",
     "in": "ការជ្រើសរើស :attribute មិនត្រឹមត្រូវ។",

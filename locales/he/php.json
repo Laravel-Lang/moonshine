@@ -69,6 +69,7 @@
     "gte.file": "על ה :attribute להיות גדול יותר או שווה ל- :value קילו-בתים.",
     "gte.numeric": "על ה :attribute להיות גדול יותר או שווה ל- :value.",
     "gte.string": "על ה :attribute להיות גדול יותר או שווה ל- :value תווים.",
+    "home": "Home",
     "image": "שדה :attribute חייב להיות תמונה.",
     "import": "יְבוּא",
     "in": "בחירת ה-:attribute אינה תקפה.",

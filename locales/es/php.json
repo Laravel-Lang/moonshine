@@ -69,6 +69,7 @@
     "gte.file": "El campo :attribute debe tener como mínimo :value kilobytes.",
     "gte.numeric": "El campo :attribute debe ser como mínimo :value.",
     "gte.string": "El campo :attribute debe tener como mínimo :value caracteres.",
+    "home": "Home",
     "image": "El campo :attribute debe ser una imagen.",
     "import": "Importar",
     "in": "El campo :attribute no está en la lista de valores permitidos.",

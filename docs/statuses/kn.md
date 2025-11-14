@@ -4,12 +4,12 @@ editLink: false
 
 # kn
 
-##### All missed: 8
+##### All missed: 9
 
 
 ### php
 
-##### Missing: 8
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+home
+
+</td><td width="50%">
+
+Home
+
+</td></tr>
 <tr><td width="50%">
 
 select.add_item

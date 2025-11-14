@@ -4,7 +4,7 @@ editLink: false
 
 # uz_Latn
 
-##### All missed: 88
+##### All missed: 89
 
 
 ### php-inline
@@ -56,7 +56,7 @@ This field must contain entries for: :values.
 
 ### php
 
-##### Missing: 85
+##### Missing: 86
 
 <table width="100%">
 <tr><th width="50%">
@@ -309,6 +309,15 @@ filters
 </td><td width="50%">
 
 Filters
+
+</td></tr>
+<tr><td width="50%">
+
+home
+
+</td><td width="50%">
+
+Home
 
 </td></tr>
 <tr><td width="50%">

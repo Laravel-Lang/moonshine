@@ -4,12 +4,12 @@ editLink: false
 
 # nb
 
-##### All missed: 12
+##### All missed: 13
 
 
 ### php
 
-##### Missing: 12
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+home
+
+</td><td width="50%">
+
+Home
+
+</td></tr>
 <tr><td width="50%">
 
 import

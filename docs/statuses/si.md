@@ -4,7 +4,7 @@ editLink: false
 
 # si
 
-##### All missed: 12
+##### All missed: 13
 
 
 ### php-inline
@@ -65,7 +65,7 @@ This field must be between :min and :max characters.
 
 ### php
 
-##### Missing: 8
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -77,6 +77,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+home
+
+</td><td width="50%">
+
+Home
+
+</td></tr>
 <tr><td width="50%">
 
 select.add_item

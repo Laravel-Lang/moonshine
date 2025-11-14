@@ -4,7 +4,7 @@ editLink: false
 
 # tt
 
-##### All missed: 11
+##### All missed: 12
 
 
 ### php-inline
@@ -47,7 +47,7 @@ This field must be declined when :other is :value.
 
 ### php
 
-##### Missing: 9
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,6 +59,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+home
+
+</td><td width="50%">
+
+Home
+
+</td></tr>
 <tr><td width="50%">
 
 select.add_item

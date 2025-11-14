@@ -4,12 +4,12 @@ editLink: false
 
 # sv
 
-##### All missed: 11
+##### All missed: 12
 
 
 ### php
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+home
+
+</td><td width="50%">
+
+Home
+
+</td></tr>
 <tr><td width="50%">
 
 resource.avatar

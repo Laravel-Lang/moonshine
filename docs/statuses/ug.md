@@ -4,7 +4,7 @@ editLink: false
 
 # ug
 
-##### All missed: 14
+##### All missed: 15
 
 
 ### php-inline
@@ -38,7 +38,7 @@ This field must be declined when :other is :value.
 
 ### php
 
-##### Missing: 13
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -57,6 +57,15 @@ close
 </td><td width="50%">
 
 Close
+
+</td></tr>
+<tr><td width="50%">
+
+home
+
+</td><td width="50%">
+
+Home
 
 </td></tr>
 <tr><td width="50%">

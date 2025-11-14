@@ -4,7 +4,7 @@ editLink: false
 
 # ig
 
-##### All missed: 26
+##### All missed: 27
 
 
 ### php-inline
@@ -164,7 +164,7 @@ This field must contain :size items.
 
 ### php
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -183,6 +183,15 @@ dashboard
 </td><td width="50%">
 
 Dashboard
+
+</td></tr>
+<tr><td width="50%">
+
+home
+
+</td><td width="50%">
+
+Home
 
 </td></tr>
 <tr><td width="50%">

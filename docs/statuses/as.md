@@ -4,7 +4,7 @@ editLink: false
 
 # as
 
-##### All missed: 99
+##### All missed: 100
 
 
 ### php-inline
@@ -830,7 +830,7 @@ This field must be a valid UUID.
 
 ### php
 
-##### Missing: 10
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -842,6 +842,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+home
+
+</td><td width="50%">
+
+Home
+
+</td></tr>
 <tr><td width="50%">
 
 resource.avatar

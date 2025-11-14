@@ -4,12 +4,12 @@ editLink: false
 
 # haw
 
-##### All missed: 9
+##### All missed: 10
 
 
 ### php
 
-##### Missing: 9
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,15 @@ dashboard
 </td><td width="50%">
 
 Dashboard
+
+</td></tr>
+<tr><td width="50%">
+
+home
+
+</td><td width="50%">
+
+Home
 
 </td></tr>
 <tr><td width="50%">

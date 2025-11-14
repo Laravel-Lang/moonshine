@@ -4,7 +4,7 @@ editLink: false
 
 # sw
 
-##### All missed: 141
+##### All missed: 142
 
 
 ### php-inline
@@ -551,7 +551,7 @@ This field must be a valid URL.
 
 ### php
 
-##### Missing: 83
+##### Missing: 84
 
 <table width="100%">
 <tr><th width="50%">
@@ -804,6 +804,15 @@ filters
 </td><td width="50%">
 
 Filters
+
+</td></tr>
+<tr><td width="50%">
+
+home
+
+</td><td width="50%">
+
+Home
 
 </td></tr>
 <tr><td width="50%">

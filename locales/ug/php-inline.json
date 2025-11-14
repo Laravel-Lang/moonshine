@@ -20,7 +20,7 @@
     "date_equals": "بۇ :date گە تەڭ بولغان چېسلا بولۇشى كېرەك.",
     "date_format": "بۇ قىممەت :format فورماتىغا ماس كېلىشى كېرەك.",
     "declined": "بۇ ساھە رەت قىلىنىشى كېرەك.",
-    "declined_if": "This field must be declined when :other is :value.",
+    "declined_if": "بۇ ساھە :other دىن :value ياشقا كىرگەندە رەتلىنىشى كېرەك.",
     "different": "بۇ قىممەت :other دىن پەرقلىق بولۇشى كېرەك.",
     "digits": "بۇ :digits خانىلىق سان بولۇشى كېرەك.",
     "digits_between": "بۇ :min بىلەن :max ئارىسىدىكى خانىلار سانىدا بولۇشى كېرەك.",

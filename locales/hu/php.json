@@ -69,6 +69,7 @@
     "gte.file": "A(z) :attribute mérete nem lehet kevesebb, mint :value kilobájt.",
     "gte.numeric": "A(z) :attribute nagyobb vagy egyenlő kell, hogy legyen, mint :value!",
     "gte.string": "A(z) :attribute hossza nem lehet kevesebb, mint :value karakter.",
+    "home": "Home",
     "image": "A(z) :attribute képfájl kell, hogy legyen!",
     "import": "Importálás",
     "in": "A kiválasztott :attribute érvénytelen.",

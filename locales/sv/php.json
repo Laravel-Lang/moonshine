@@ -69,6 +69,7 @@
     "gte.file": ":Attribute måste vara lika med eller större än :value kilobyte stor.",
     "gte.numeric": ":Attribute måste vara lika med eller större än :value.",
     "gte.string": ":Attribute måste vara lika med eller längre än :value tecken.",
+    "home": "Home",
     "image": ":Attribute måste vara en bild.",
     "import": "Importera",
     "in": ":Attribute är ogiltigt.",

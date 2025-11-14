@@ -69,6 +69,7 @@
     "gte.file": ":Attribute դաշտի ֆայլի չափը պետք է մեծ կամ հավասար լինի :value կիլոբայթից։",
     "gte.numeric": ":Attribute դաշտը պետք է մեծ կամ հավասար լինի :value-ից։",
     "gte.string": ":Attribute դաշտի նիշերի քանակը պետք է մեծ կամ հավասար լինի :value-ից։",
+    "home": "Home",
     "image": ":Attribute դաշտը պետք է լինի նկար։",
     "import": "Ներմուծում",
     "in": ":Attribute դաշտի ընտրված արժեքն անվավեր է։",

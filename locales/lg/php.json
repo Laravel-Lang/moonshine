@@ -69,6 +69,7 @@
     "gte.file": ":attribute zirina okuba nga zisinga oba nga zenkana kilobytes :value.",
     "gte.numeric": ":attribute zirina okuba nga zisinga oba nga zenkana :value.",
     "gte.string": "Ennukuta :attribute zirina okuba nga zisinga oba nga zenkana ennukuta :value.",
+    "home": "Home",
     "image": "Ebyo :attribute birina okuba nga bifaananyi.",
     "import": "Okuyingiza",
     "in": ":attribute ezirondeddwa tezirina makulu.",

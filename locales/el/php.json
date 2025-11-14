@@ -69,6 +69,7 @@
     "gte.file": "To πεδίο :attribute πρέπει να είναι μεγαλύτερο ή ίσο από :value kilobytes.",
     "gte.numeric": "To πεδίο :attribute πρέπει να είναι μεγαλύτερο ή ίσο από :value.",
     "gte.string": "To πεδίο :attribute πρέπει να είναι μεγαλύτερο ή ίσο από :value χαρακτήρες.",
+    "home": "Home",
     "image": "Το πεδίο :attribute πρέπει να είναι εικόνα.",
     "import": "Import",
     "in": "Το επιλεγμένο :attribute δεν είναι έγκυρο.",

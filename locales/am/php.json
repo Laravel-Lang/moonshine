@@ -69,6 +69,7 @@
     "gte.file": ":attribute ቱ ከ :value ኪሎባይት በላይ ወይም እኩል መሆን አለበት።",
     "gte.numeric": ":attributeቱ ከ:value በላይ ወይም እኩል መሆን አለባቸው።",
     "gte.string": ":attributeቱ ከ:value ቁምፊዎች በላይ ወይም እኩል መሆን አለባቸው።",
+    "home": "Home",
     "image": ":attribute ምስል መሆን አለበት.",
     "import": "ማስመጣት",
     "in": "የተመረጠው :attribute ልክ ያልሆነ ነው።",

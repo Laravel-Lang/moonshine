@@ -69,6 +69,7 @@
     "gte.file": "Polje :attribute mora da ima :value ili više kilobajta.",
     "gte.numeric": "Polje :attribute mora da bude :value ili veći.",
     "gte.string": "Polje :attribute mora да sadrži :value или više znakova.",
+    "home": "Home",
     "image": "Polje :attribute mora biti slika.",
     "import": "Import",
     "in": "Odabrano polje :attribute nije validno.",

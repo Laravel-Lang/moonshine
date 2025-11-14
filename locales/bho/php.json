@@ -69,6 +69,7 @@
     "gte.file": ":attribute के :value किलोबाइट से अधिका भा बराबर होखे के चाहीं.",
     "gte.numeric": ":attribute के :value से अधिका भा बराबर होखे के चाहीं.",
     "gte.string": ":attribute के :value अक्षर से अधिका भा बराबर होखे के चाहीं.",
+    "home": "Home",
     "image": ":attribute गो के छवि होखे के चाहीं.",
     "import": "आयात",
     "in": "चुनल गइल :attribute गो अमान्य बा.",

@@ -69,6 +69,7 @@
     "gte.file": "I-:attribute mayibe nkulu okanye ilingane neekhilobhayithi ezingama-:value.",
     "gte.numeric": "I-:attribute kufuneka libe likhulu okanye lilingane no-:value.",
     "gte.string": "I-:attribute kufuneka ibe nkulu okanye ilingane noonobumba abangama-:value.",
+    "home": "Home",
     "image": "I-:attribute kufuneka ibe ngumfanekiso.",
     "import": "Ngenisa",
     "in": "I-:attribute ekhethiweyo ayisebenzi.",

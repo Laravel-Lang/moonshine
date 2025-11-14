@@ -69,6 +69,7 @@
     "gte.file": ":Attribute fayl hajmi :value kilobaytdan katta yoki teng bo‘lishi kerak.",
     "gte.numeric": ":Attribute maydoni :value dan katta yoki teng bo‘lishi kerak.",
     "gte.string": ":Attribute dagi belgilar soni :value dan katta yoki teng bo‘lishi kerak.",
+    "home": "Home",
     "image": ":Attribute tasvir (rasm) bo‘lishi kerak.",
     "import": "Import",
     "in": ":Attribute uchun tanlangan qiymat xato.",

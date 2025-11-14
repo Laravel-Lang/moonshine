@@ -69,6 +69,7 @@
     "gte.file": "Caithfidh an :attribute a bheith níos mó ná nó cothrom le :value cilibheart.",
     "gte.numeric": "Caithfidh an :attribute a bheith níos mó ná nó cothrom le :value.",
     "gte.string": "Caithfidh na :attribute gcinn a bheith níos mó ná nó cothrom le :value carachtar.",
+    "home": "Home",
     "image": "Caithfidh an :attribute a bheith ina íomhá.",
     "import": "Moill",
     "in": "Tá an :attribute roghnaithe neamhbhailí.",

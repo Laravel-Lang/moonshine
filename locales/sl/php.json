@@ -69,6 +69,7 @@
     "gte.file": ":Attribute mora biti večji ali enak :value kilobajtov.",
     "gte.numeric": ":Attribute mora biti večji ali enak :value.",
     "gte.string": ":Attribute mora imeti število znakov večje ali enako :value.",
+    "home": "Home",
     "image": ":Attribute mora biti slika.",
     "import": "Uvoz",
     "in": "Izbran :attribute je neveljaven.",

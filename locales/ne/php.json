@@ -69,6 +69,7 @@
     "gte.file": ":Attribute :value क्यालोबाइट भन्दा बढि हुनुपर्दछ।",
     "gte.numeric": ":Attribute :value भन्दा बढि हुनुपर्दछ।",
     "gte.string": ":Attribute :value क्यारेक्टर भन्दा बढि हुनुपर्दछ।",
+    "home": "Home",
     "image": ":Attribute मा फोटो हुनुपर्छ।",
     "import": "Import",
     "in": "छानिएको :attribute अमान्य छ।",

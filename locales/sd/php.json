@@ -69,6 +69,7 @@
     "gte.file": ":attribute :value kilobytes کان وڌيڪ يا برابر هجڻ گهرجي.",
     "gte.numeric": ":attribute کي :value کان وڏو يا برابر هجڻ گھرجي.",
     "gte.string": ":attribute کي :value اکرن کان وڏو يا برابر هجڻ گھرجي.",
+    "home": "Home",
     "image": ":attribute هڪ تصوير هجڻ گهرجي.",
     "import": "ايس ايس ڦائڻ",
     "in": "منتخب ٿيل :attribute غلط آهي.",

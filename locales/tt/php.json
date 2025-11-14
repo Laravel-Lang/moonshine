@@ -69,6 +69,7 @@
     "gte.file": ":attribute :value килобайттан зуррак яки тигез булырга тиеш.",
     "gte.numeric": ":attribute дан :value дән зуррак яки тигез булырга тиеш.",
     "gte.string": ":attribute :value символдан зуррак яки тигез булырга тиеш.",
+    "home": "Home",
     "image": ":attribute рәсем булырга тиеш.",
     "import": "Импорт",
     "in": "Сайланган :attribute дөрес түгел.",

@@ -69,6 +69,7 @@
     "gte.file": ":Attribute harus berukuran lebih besar dari atau sama dengan :value kilobita.",
     "gte.numeric": ":Attribute harus bernilai lebih besar dari atau sama dengan :value.",
     "gte.string": ":Attribute harus berisi lebih besar dari atau sama dengan :value karakter.",
+    "home": "Home",
     "image": ":Attribute harus berupa gambar.",
     "import": "Impor",
     "in": ":Attribute yang dipilih tidak valid.",

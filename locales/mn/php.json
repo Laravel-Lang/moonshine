@@ -69,6 +69,7 @@
     "gte.file": ":Attribute нь :value килобайтаас их буюу тэнцүү байх ёстой.",
     "gte.numeric": ":Attribute нь :value-аас их буюу тэнцүү байх ёстой.",
     "gte.string": ":Attribute нь :value тэмдэгтээс их буюу тэнцүү байх ёстой.",
+    "home": "Home",
     "image": ":Attribute талбарт зураг оруулна уу.",
     "import": "Импортлох",
     "in": "Сонгогдсон :attribute буруу байна.",

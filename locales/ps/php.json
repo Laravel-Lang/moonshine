@@ -69,6 +69,7 @@
     "gte.file": "د دوتنې اندازه باید وي:attribute لږترلږه :value كيلوبايت.",
     "gte.numeric": "دا باید ارزښت وي :attribute مساوی یا زیات :value.",
     "gte.string": "د متن اوږدوالی باید وي :attribute لږترلږه :value توري/توري.",
+    "home": "Home",
     "image": "دا باید وي :attribute انځور.",
     "import": "واردول",
     "in": ":Attribute غير موجود.",

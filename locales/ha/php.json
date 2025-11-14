@@ -69,6 +69,7 @@
     "gte.file": "Dole ne :attribute ya zama mafi girma ko daidai da kilobytes :value.",
     "gte.numeric": "Dole ne :attribute ya zama mafi girma ko daidai da :value.",
     "gte.string": "Dole ne :attribute ɗin ya zama mafi girma ko daidai da haruffa :value.",
+    "home": "Home",
     "image": "Dole ne guda :attribute ya zama hoto.",
     "import": "Shigowa da kayan ciniki",
     "in": "Zaɓaɓɓen :attribute ba daidai ba ne.",

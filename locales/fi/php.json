@@ -69,6 +69,7 @@
     "gte.file": "Tiedoston :attribute tulee olla suurempi tai yhtäsuuri kuin :value kilotavua.",
     "gte.numeric": "Kentän :attribute arvo tulee olla suurempi tai yhtäsuuri kuin :value.",
     "gte.string": "Kentän :attribute arvo tulee olla pidempi tai yhtä pitkä kuin :value merkkiä.",
+    "home": "Home",
     "image": "Kentän :attribute arvon tulee olla kuva.",
     "import": "Tuoda",
     "in": "Kentän :attribute arvo on virheellinen.",

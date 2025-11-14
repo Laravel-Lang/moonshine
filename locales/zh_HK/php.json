@@ -69,6 +69,7 @@
     "gte.file": ":attribute 必須大於或等於 :value KB。",
     "gte.numeric": ":attribute 必須大於或等於 :value。",
     "gte.string": ":attribute 必須多於或等於 :value 個字符。",
+    "home": "Home",
     "image": ":attribute 必須是一張圖片。",
     "import": "Import",
     "in": "所揀選的 :attribute 選項無效。",

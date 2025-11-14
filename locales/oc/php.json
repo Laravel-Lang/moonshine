@@ -69,6 +69,7 @@
     "gte.file": "La talha del fichièr de :attribute deu èsser superiora o egala a :value kilo-octets.",
     "gte.numeric": "La valor de :attribute deu èsser superiora o egala a :value.",
     "gte.string": "Lo tèxt :attribute deu conténer almens :value caractèrs.",
+    "home": "Home",
     "image": "Lo camp :attribute deu èsser un imatge.",
     "import": "Import",
     "in": "Lo camp :attribute selecionnat es invalid.",

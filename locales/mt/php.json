@@ -69,6 +69,7 @@
     "gte.file": "L-:attribute għandhom ikunu akbar minn jew ugwali għal :value kilobytes.",
     "gte.numeric": "L-:attribute għandhom ikunu akbar minn jew ugwali għal :value.",
     "gte.string": "L-:attribute għandhom ikunu akbar minn jew ugwali għal :value karattru.",
+    "home": "Home",
     "image": "L-:attribute għandhom ikunu immaġini.",
     "import": "Importazzjoni",
     "in": "L-:attribute magħżula hija invalida.",

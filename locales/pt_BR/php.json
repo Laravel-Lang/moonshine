@@ -69,6 +69,7 @@
     "gte.file": "O campo :attribute deve ter :value quilobytes ou mais.",
     "gte.numeric": "O campo :attribute deve ser maior ou igual a :value.",
     "gte.string": "O campo :attribute deve ter :value caracteres ou mais.",
+    "home": "Home",
     "image": "O campo :attribute deve conter uma imagem.",
     "import": "Importar",
     "in": "O campo :attribute não contém um valor válido.",

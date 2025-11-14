@@ -69,6 +69,7 @@
     "gte.file": "Поле :attribute має дорівнювати чи бути більше ніж :value кілобайт.",
     "gte.numeric": "Поле :attribute має дорівнювати чи бути більше ніж :value.",
     "gte.string": "Поле :attribute має дорівнювати чи бути більше ніж :value символів.",
+    "home": "Home",
     "image": "Поле :attribute має містити зображення.",
     "import": "Import",
     "in": "Значення поля :attribute відсутнє у списку допустимих значень.",

@@ -69,6 +69,7 @@
     "gte.file": ":Attribute چوقۇم :value كىلوبايتتىن چوڭ ياكى تەڭ بولۇشى كېرەك.",
     "gte.numeric": ":Attribute چوقۇم :value دىن چوڭ ياكى تەڭ بولۇشى كېرەك.",
     "gte.string": ":Attribute چوقۇم :value ھەرپتىن چوڭ ياكى تەڭ بولۇشى كېرەك.",
+    "home": "Home",
     "image": ":Attribute چوقۇم رەسىم ھۆججىتى بۇلىشى كېرەك.",
     "import": "ئىمپورت",
     "in": "تاللانغان قىممەت :attribute ئىناۋەتسىز",

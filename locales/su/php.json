@@ -69,6 +69,7 @@
     "gte.file": ":attribute kedah langkung ageung atanapi sami sareng :value kilobyte.",
     "gte.numeric": ":attribute kedah langkung ageung atanapi sami sareng :value.",
     "gte.string": ":attribute kedah langkung ageung atanapi sami sareng :value karakter.",
+    "home": "Home",
     "image": ":attribute kedah janten gambar.",
     "import": "Impor",
     "in": ":attribute nu dipilih teu valid.",

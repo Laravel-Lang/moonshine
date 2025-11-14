@@ -69,6 +69,7 @@
     "gte.file": "La :attribute devas esti pli granda ol aŭ egala al :value kilobajtoj.",
     "gte.numeric": "La :attribute devas esti pli granda ol aŭ egala al :value.",
     "gte.string": "La :attribute devas esti pli granda ol aŭ egala al :value signoj.",
+    "home": "Home",
     "image": "La :attribute devas esti bildo.",
     "import": "Importi",
     "in": "La elektita :attribute estas malvalida.",

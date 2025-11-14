@@ -69,6 +69,7 @@
     "gte.file": "Failas lauke :attribute turi būti didesnis arba lygus :value kilobaitams.",
     "gte.numeric": "Lauko :attribute reikšmė turi būti didesnė arba lygi :value.",
     "gte.string": "Lauko :attribute reikšmė turi būti didesnė arba lygi :value simboliams.",
+    "home": "Home",
     "image": "Lauko :attribute reikšmė turi būti paveikslėlis.",
     "import": "Importuoti",
     "in": "Pasirinkta negaliojanti :attribute reikšmė.",

@@ -69,6 +69,7 @@
     "gte.file": "Esengeli :attribute ezala monene to ekokana na :value kilobytes.",
     "gte.numeric": "Esengeli :attribute ezala monene to ekokana na :value.",
     "gte.string": "Ba :attribute esengeli kozala monene koleka to kokokana na bilembo :value.",
+    "home": "Home",
     "image": "Ba :attribute esengeli ezala image.",
     "import": "Komema",
     "in": ":attribute oyo oponi ezali na ntina te.",

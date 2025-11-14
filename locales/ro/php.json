@@ -69,6 +69,7 @@
     "gte.file": "Câmpul :attribute trebuie să fie mai mare sau egal cu :value kilobyți.",
     "gte.numeric": "Câmpul :attribute trebuie să fie mai mare sau egal cu :value.",
     "gte.string": "Câmpul :attribute trebuie să fie mai mare sau egal cu :value caractere.",
+    "home": "Home",
     "image": "Câmpul :attribute trebuie să fie o imagine.",
     "import": "Import",
     "in": "Câmpul :attribute selectat nu este valid.",

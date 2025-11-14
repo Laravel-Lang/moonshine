@@ -69,6 +69,7 @@
     "gte.file": ":Attribute :value کلو بائٹس سے زیادہ یا اس کے برابر ہونا چاہیے۔",
     "gte.numeric": ":Attribute کو :value سے بڑا یا اس کے برابر ہونا چاہیے۔",
     "gte.string": ":Attribute کو :value حروف سے زیادہ یا اس کے برابر ہونا چاہیے۔",
+    "home": "Home",
     "image": ":Attribute لازماً کوئی تصویر ہو۔",
     "import": "درآمد",
     "in": "منتخب :attribute قابلِ قبول نہیں ہے۔",

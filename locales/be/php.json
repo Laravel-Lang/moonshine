@@ -69,6 +69,7 @@
     "gte.file": ":Attribute павінны быць больш або роўныя :value кілабайтам.",
     "gte.numeric": ":Attribute павінна быць больш або роўна :value.",
     "gte.string": ":Attribute павінна быць больш або роўна :value сімвалам.",
+    "home": "Home",
     "image": "Поле :attribute павінна быць малюнкам.",
     "import": "Імпартаваць",
     "in": "Выбранае значэнне для :attribute памылкова.",

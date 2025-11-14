@@ -69,6 +69,7 @@
     "gte.file": ":Attribute peab olema suurem kui :value kilobaiti või sama palju",
     "gte.numeric": ":Attribute peab olema suurem kui :value või samasugune",
     "gte.string": ":Attribute peab sisaldama rohkem kui :value tähemärki või sama palju",
+    "home": "Home",
     "image": ":Attribute peab olema pilt.",
     "import": "Import",
     "in": "Valitud :attribute on vigane.",

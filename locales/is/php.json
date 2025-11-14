@@ -69,6 +69,7 @@
     "gte.file": ":Attribute verður að vera stærra en eða jafnt :value kílóbætum.",
     "gte.numeric": ":Attribute verður að vera stærra en eða jafnt :value.",
     "gte.string": ":Attribute verður að vera lengri eða jafnlangur og :value stafir.",
+    "home": "Home",
     "image": "Reiturinn :attribute verður að vera mynd.",
     "import": "Flytja inn",
     "in": "Reiturinn :attribute er ekki réttur.",

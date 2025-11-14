@@ -69,6 +69,7 @@
     "gte.file": ":attribute ຈະຕ້ອງໃຫຍ່ກວ່າ ຫຼືເທົ່າກັບ :value ກິໂລໄບ.",
     "gte.numeric": ":attribute ຕ້ອງໃຫຍ່ກວ່າ ຫຼືເທົ່າກັບ :value.",
     "gte.string": ":attribute ຈະຕ້ອງໃຫຍ່ກວ່າ ຫຼືເທົ່າກັບ :value ຕົວອັກສອນ.",
+    "home": "Home",
     "image": ":attribute ຕ້ອງເປັນຮູບ.",
     "import": "ສ່ວຍສາອາກອນ",
     "in": ":attribute ທີ່ເລືອກບໍ່ຖືກຕ້ອງ.",

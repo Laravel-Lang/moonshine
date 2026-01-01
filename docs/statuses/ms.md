@@ -4,12 +4,12 @@ editLink: false
 
 # ms
 
-##### All missed: 3
+##### All missed: 2
 
 
 ### php
 
-##### Missing: 3
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-edit
-
-</td><td width="50%">
-
-Edit
-
-</td></tr>
 <tr><td width="50%">
 
 import

@@ -4,12 +4,12 @@ editLink: false
 
 # mg
 
-##### All missed: 8
+##### All missed: 7
 
 
 ### php
 
-##### Missing: 8
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ import
 </td><td width="50%">
 
 Import
-
-</td></tr>
-<tr><td width="50%">
-
-loading
-
-</td><td width="50%">
-
-Loading ...
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # ha
 
-##### All missed: 6
+##### All missed: 3
 
 
 ### php
 
-##### Missing: 6
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,24 +32,6 @@ Dashboard
 </td></tr>
 <tr><td width="50%">
 
-loading
-
-</td><td width="50%">
-
-Loading ...
-
-</td></tr>
-<tr><td width="50%">
-
-login.email
-
-</td><td width="50%">
-
-E-mail
-
-</td></tr>
-<tr><td width="50%">
-
 resource.admins_title
 
 </td><td width="50%">
@@ -64,15 +46,6 @@ resource.avatar
 </td><td width="50%">
 
 Avatar
-
-</td></tr>
-<tr><td width="50%">
-
-resource.email
-
-</td><td width="50%">
-
-E-mail
 
 </td></tr>
 </table>

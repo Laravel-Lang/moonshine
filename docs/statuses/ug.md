@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 5
+##### All missed: 3
 
 
 ### php
 
-##### Missing: 5
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,29 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-close
-
-</td><td width="50%">
-
-Close
-
-</td></tr>
-<tr><td width="50%">
-
 loading
 
 </td><td width="50%">
 
 Loading ...
-
-</td></tr>
-<tr><td width="50%">
-
-resource.name
-
-</td><td width="50%">
-
-Name
 
 </td></tr>
 <tr><td width="50%">

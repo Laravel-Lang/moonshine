@@ -69,7 +69,7 @@
     "gte.file": "Ang :attribute ay dapat na mas malaki sa o katumbas ng :value kilobytes.",
     "gte.numeric": "Ang :attribute ay dapat na mas malaki sa o katumbas ng :value.",
     "gte.string": "Ang :attribute ay dapat na mas malaki sa o katumbas ng :value character.",
-    "home": "Home",
+    "home": "Bahay",
     "image": "Ang :attribute ay dapat isang imahe.",
     "import": "Mag -import",
     "in": "Ang piniling :attribute ay imbalido.",

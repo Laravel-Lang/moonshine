@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 13
+##### All missed: 12
 
 
 ### php
 
-##### Missing: 13
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -73,15 +73,6 @@ login.username
 </td><td width="50%">
 
 Username
-
-</td></tr>
-<tr><td width="50%">
-
-of
-
-</td><td width="50%">
-
-of
 
 </td></tr>
 <tr><td width="50%">

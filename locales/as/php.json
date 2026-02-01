@@ -137,7 +137,7 @@
     "required_without": "২০ নথকা সময়ত ১০ ফিল্ডৰ প্ৰয়োজন হয়।",
     "required_without_all": "২০ টা ফিল্ডৰ কোনোটোৱেই নাথাকিলে ১০ টা ফিল্ডৰ প্ৰয়োজন হয়।",
     "reset": "পুনৰায় সেট কৰক",
-    "resource.admins_title": "admins",
+    "resource.admins_title": "Admins",
     "resource.avatar": "Avatar",
     "resource.change_password": "গুপ্তশব্দ সলনি কৰক",
     "resource.created_at": "সৃষ্টি কৰা হৈছে",

@@ -256,7 +256,7 @@ editLink: false
 
 </td><td width="12%">
 
-[ln&nbsp;❗](statuses/ln.md)
+[ln&nbsp;✔](statuses/ln.md)
 
 </td><td width="12%">
 

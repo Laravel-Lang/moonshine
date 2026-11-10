@@ -1,0 +1,48 @@
+{
+    "plugins": [
+        {
+            "vendor": "moonshine/moonshine",
+            "version": "^3.0",
+            "files": [
+                {
+                    "source": "moonshine/3.x/auth.php",
+                    "target": "vendor/moonshine/{locale}/auth.php"
+                },
+                {
+                    "source": "moonshine/3.x/pagination.php",
+                    "target": "vendor/moonshine/{locale}/pagination.php"
+                },
+                {
+                    "source": "moonshine/3.x/ui.php",
+                    "target": "vendor/moonshine/{locale}/ui.php"
+                },
+                {
+                    "source": "moonshine/3.x/validation.php",
+                    "target": "vendor/moonshine/{locale}/validation.php"
+                }
+            ]
+        },
+        {
+            "vendor": "moonshine/moonshine",
+            "version": "^4.0",
+            "files": [
+                {
+                    "source": "moonshine/4.x/auth.php",
+                    "target": "vendor/moonshine/{locale}/auth.php"
+                },
+                {
+                    "source": "moonshine/4.x/pagination.php",
+                    "target": "vendor/moonshine/{locale}/pagination.php"
+                },
+                {
+                    "source": "moonshine/4.x/ui.php",
+                    "target": "vendor/moonshine/{locale}/ui.php"
+                },
+                {
+                    "source": "moonshine/4.x/validation.php",
+                    "target": "vendor/moonshine/{locale}/validation.php"
+                }
+            ]
+        }
+    ]
+}

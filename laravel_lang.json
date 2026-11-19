@@ -44,6 +44,28 @@
                     "target": "vendor/moonshine/{locale}/validation.php"
                 }
             ]
+        },
+        {
+            "vendor": "moonshine/moonshine",
+            "version": "^5.0",
+            "files": [
+                {
+                    "source": "moonshine/5.x/auth.php",
+                    "target": "vendor/moonshine/{locale}/auth.php"
+                },
+                {
+                    "source": "moonshine/5.x/pagination.php",
+                    "target": "vendor/moonshine/{locale}/pagination.php"
+                },
+                {
+                    "source": "moonshine/5.x/ui.php",
+                    "target": "vendor/moonshine/{locale}/ui.php"
+                },
+                {
+                    "source": "moonshine/5.x/validation.php",
+                    "target": "vendor/moonshine/{locale}/validation.php"
+                }
+            ]
         }
     ]
 }

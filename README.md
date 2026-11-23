@@ -43,11 +43,11 @@ php artisan lang:update
 Yes, that's all 😊
 
 Now the package is connected to your application and you
-can [manage localizations](https://laravel-lang.com/20.x/translations).
+can [manage localizations](https://laravel-lang.com/translations).
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://laravel-lang.com/20.x/contributing) for details.
+Please see [CONTRIBUTING](https://laravel-lang.com/contributing) for details.
 
 ## Support Us
 
@@ -55,7 +55,7 @@ Please see [CONTRIBUTING](https://laravel-lang.com/20.x/contributing) for detail
 
 ## License
 
-This package is licensed under the [MIT License](https://laravel-lang.com/20.x/license).
+This package is licensed under the [MIT License](https://laravel-lang.com/license).
 
 [badge_stable]: https://img.shields.io/github/v/release/Laravel-Lang/moonshine?label=stable&style=flat-square
 [badge_downloads]: https://img.shields.io/packagist/dt/Laravel-Lang/moonshine.svg?style=flat-square

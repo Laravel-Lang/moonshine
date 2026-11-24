@@ -40,7 +40,7 @@ jobs:
                     COMPOSER_TOKEN: ${{ secrets.COMPOSER_TOKEN }}
 
             -   name: Install dependencies
-                run: composer require laravel/framework:^${{ matrix.laravel }} laravel-lang/publisher:^${{ matrix.publisher }}
+                run: composer require --no-blocking laravel/framework:^${{ matrix.laravel }} laravel-lang/publisher:^${{ matrix.publisher }}
 
             -   name: Execute tests
                 run: sudo vendor/bin/phpunit --colors=always

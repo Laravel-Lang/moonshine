@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # de_AT
 
 ##### All missed: 284
-
 
 ### php-inline
 
@@ -906,8 +905,6 @@ This field must be a valid UUID.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-
-
 
 ### php
 
@@ -2600,4 +2597,3 @@ The :attribute must be a valid UUID.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # ceb
 
 ##### All missed: 4
-
 
 ### php
 
@@ -60,4 +59,3 @@ E-mail
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

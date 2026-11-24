@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # ku
 
 ##### All missed: 5
-
 
 ### php
 
@@ -69,4 +68,3 @@ Roles
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # sw
 
 ##### All missed: 142
-
 
 ### php-inline
 
@@ -546,8 +545,6 @@ This field must be a valid URL.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-
-
 
 ### php
 
@@ -1322,4 +1319,3 @@ Total
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

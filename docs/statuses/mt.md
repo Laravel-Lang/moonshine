@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # mt
 
 ##### All missed: 5
-
 
 ### php
 
@@ -69,4 +68,3 @@ Password
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

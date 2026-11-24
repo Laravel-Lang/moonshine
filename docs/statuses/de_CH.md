@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # de_CH
 
 ##### All missed: 87
-
 
 ### php-inline
 
@@ -51,8 +50,6 @@ This field must contain entries for: :values.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-
-
 
 ### php
 
@@ -827,4 +824,3 @@ Total
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

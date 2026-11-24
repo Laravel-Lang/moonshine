@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # fy
 
 ##### All missed: 5
-
 
 ### php
 
@@ -69,4 +68,3 @@ Avatar
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

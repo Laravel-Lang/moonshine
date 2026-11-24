@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # en_CA
 
 ##### All missed: 201
-
 
 ### php-inline
 
@@ -843,8 +842,6 @@ This field must be a valid UUID.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-
-
 
 ### php
 
@@ -1853,4 +1850,3 @@ The :attribute failed to upload.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

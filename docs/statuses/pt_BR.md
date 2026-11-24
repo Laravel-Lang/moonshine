@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # pt_BR
 
 ##### All missed: 9
-
 
 ### php
 
@@ -105,4 +104,3 @@ Only unique values can be added
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # gl
 
 ##### All missed: 2
-
 
 ### php
 
@@ -42,4 +41,3 @@ Total
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

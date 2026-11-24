@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # fa
 
 ##### All missed: 86
-
 
 ### php-inline
 
@@ -42,8 +41,6 @@ This field must be a file of type: :values.
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-
-
 
 ### php
 
@@ -818,4 +815,3 @@ Total
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-

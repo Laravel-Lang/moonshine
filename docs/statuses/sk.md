@@ -1,11 +1,10 @@
 ---
-editLink: false
----
+
+## editLink: false
 
 # sk
 
 ##### All missed: 3
-
 
 ### php
 
@@ -51,4 +50,3 @@ E-mail
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
-
